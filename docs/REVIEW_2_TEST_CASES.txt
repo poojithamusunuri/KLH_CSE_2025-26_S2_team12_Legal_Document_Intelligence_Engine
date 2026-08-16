@@ -1,0 +1,41 @@
+REVIEW 2 — STRING MATCHING TEST CASES
+
+Corpus: 20 actual project product TXT files.
+
+1. Common feature
+Query: wireless charging
+Purpose: should return multiple products from different categories.
+
+2. Display specification
+Query: 120Hz
+Purpose: should return products whose corpus text contains 120Hz.
+
+3. Connectivity
+Query: USB-C
+Purpose: should return phones, laptops, accessories, and other compatible products containing the term.
+
+4. Wireless technology
+Query: Bluetooth
+Purpose: should demonstrate cross-category corpus search.
+
+5. Usage term
+Query: gaming
+Purpose: should return gaming-related products and products whose use cases/features mention gaming.
+
+6. Camera term
+Query: camera
+Purpose: should return camera products and other products with camera-related information.
+
+7. Charging term
+Query: fast charging
+Purpose: should return relevant phones/accessories and other products containing the phrase.
+
+8. Network term
+Query: 5G
+Purpose: should return products whose corpus text contains 5G.
+
+9. Negative test
+Query: xyznonexistent123
+Expected: 0 matching files.
+
+For each query, demonstrate both KMP and Rabin-Karp at least once. Use the comparison option for selected queries.

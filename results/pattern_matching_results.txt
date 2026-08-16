@@ -1,0 +1,156 @@
+PATTERN MATCHING EVALUATION RESULTS
+===================================
+
+Project Title:
+Product Search and Recommendation System for Shopping
+
+Team:
+4
+
+Supervisor:
+Dr. S. Vinay Kumar, Associate Professor,
+Department of Computer Science and Engineering
+
+Phase:
+Review 2 - Pattern/String Matching Implementation
+
+Corpus:
+20 product TXT files
+
+Algorithms:
+1. Knuth-Morris-Pratt (KMP)
+2. Rabin-Karp
+
+==================================================
+TEST 1 - KMP STRING SEARCH
+==================================================
+
+Search Pattern:
+Bluetooth
+
+Algorithm:
+Knuth-Morris-Pratt (KMP)
+
+Matching Product Files: 11
+
+1. SAMSUNG GALAXY S24 ULTRA
+   File: product_p001_samsung_s24_ultra.txt
+   Match position: 2256
+
+2. APPLE IPHONE 16 PRO MAX
+   File: product_p002_apple_iphone_16_pro_max.txt
+   Match position: 1946
+
+3. GOOGLE PIXEL 9 PRO XL
+   File: product_p003_google_pixel_9_pro_xl.txt
+   Match position: 1787
+
+4. ONEPLUS 13
+   File: product_p004_oneplus_13.txt
+   Match position: 1716
+
+5. APPLE MACBOOK AIR M3 13"
+   File: product_p005_apple_macbook_air_m3_13.txt
+   Match position: 1772
+
+6. SONY WH-1000XM6 WIRELESS HEADPHONES
+   File: product_p008_sony_wh_1000xm6_wireless_headphones.txt
+   Match position: 1689
+
+7. APPLE AIRPODS PRO (2ND GEN USB-C)
+   File: product_p009_apple_airpods_pro_2nd_gen_usb_c.txt
+   Match position: 1595
+
+8. SAMSUNG GALAXY WATCH ULTRA
+   File: product_p010_samsung_galaxy_watch_ultra.txt
+   Match position: 1793
+
+9. APPLE WATCH SERIES 10
+   File: product_p011_apple_watch_series_10.txt
+   Match position: 1663
+
+10. LOGITECH MX MASTER 3S MOUSE
+    File: product_p017_logitech_mx_master_3s_mouse.txt
+    Match position: 1039
+
+11. LOGITECH MX KEYS S KEYBOARD
+    File: product_p018_logitech_mx_keys_s_keyboard.txt
+    Match position: 1069
+
+
+==================================================
+TEST 2 - RABIN-KARP STRING SEARCH
+==================================================
+
+Search Pattern:
+bluetooth
+
+Algorithm:
+Rabin-Karp
+
+Matching Product Files: 11
+
+The Rabin-Karp implementation returned the same 11 matching
+product files and the same match positions as KMP.
+
+This demonstrates consistency between the two independent
+pattern matching implementations for the tested query.
+
+
+==================================================
+TEST 3 - KMP VS RABIN-KARP COMPARISON
+==================================================
+
+Query:
+bluetooth
+
+Corpus Files:
+20
+
+Benchmark Runs:
+10
+
+Comparison:
+
+Metric                  KMP              Rabin-Karp
+--------------------------------------------------
+Matching Files          11               11
+
+Result Consistency:
+PASS
+
+==================================================
+OBSERVATION
+==================================================
+
+For the tested query "Bluetooth"/"bluetooth", both KMP and
+Rabin-Karp successfully searched the complete text of the
+20-product corpus.
+
+Both algorithms identified the same 11 matching product files
+and the same match positions.
+
+The project verifies the consistency of the results returned
+by the two algorithms.
+
+KMP performs pattern matching using the LPS (Longest Proper
+Prefix which is also Suffix) preprocessing technique.
+
+Rabin-Karp performs pattern matching using a rolling hash and
+character verification when hash values match.
+
+The actual matching operation does not use String.contains()
+or String.indexOf().
+
+==================================================
+CONCLUSION
+==================================================
+
+The Pattern/String Matching implementation for Review 2 is
+implemented and integrated into the Product Search Engine.
+
+Both KMP and Rabin-Karp are connected through SearchEngine.java
+and operate on the project's actual 20-product TXT corpus.
+
+For the tested Bluetooth query, the result consistency check
+passed successfully.
