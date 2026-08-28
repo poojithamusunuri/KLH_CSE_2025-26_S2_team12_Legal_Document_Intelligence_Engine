@@ -3,7 +3,7 @@
 ## Project Information
 
 **Course:** Data Structures and Algorithms – 3  
-**Team:** 4  
+**Team:** 12
 **Supervisor:** Dr. S. Vinay Kumar, Associate Professor, Department of Computer Science and Engineering  
 
 ---
