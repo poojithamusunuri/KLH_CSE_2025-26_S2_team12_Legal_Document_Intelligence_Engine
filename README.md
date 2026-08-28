@@ -13,7 +13,7 @@
 
 | Name | ID |
 |---|---|
-| Talluri. HimaBindu Sree | 2520030484 |
+
 | Musunuri. Poojitha | 2520030541 |
 
 ---
