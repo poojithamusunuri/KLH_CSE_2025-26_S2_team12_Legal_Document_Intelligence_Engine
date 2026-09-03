@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE005
+
+TITLE: Res Judicata
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Civil Procedure
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+res judicata, final judgment, civil procedure, previous decision
+
+DESCRIPTION:
+Res Judicata prevents the same dispute between the same parties from being
+litigated repeatedly once it has been finally decided by a competent court,
+subject to the applicable legal requirements.
+
+
+
+DOMAIN: Procedural Law
+
+SUBDOMAIN: Judicial Procedure
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: judicata, procedural law, judicial procedure

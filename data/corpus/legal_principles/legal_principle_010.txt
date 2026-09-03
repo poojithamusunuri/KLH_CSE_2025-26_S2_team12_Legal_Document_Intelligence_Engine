@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE010
+
+TITLE: Doctrine of Proportionality
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Constitutional and Administrative Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+proportionality, reasonable restriction, constitutional rights
+
+DESCRIPTION:
+The Doctrine of Proportionality examines whether a restriction or state
+action has a legitimate objective and whether the means adopted are
+appropriately connected and proportionate to that objective.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: proportionality, constitutional law, constitutional principles

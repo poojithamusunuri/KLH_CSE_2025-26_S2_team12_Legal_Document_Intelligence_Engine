@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE006
+
+TITLE: Stare Decisis
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Judicial Precedent
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+stare decisis, precedent, judicial decisions, binding authority
+
+DESCRIPTION:
+Stare Decisis is the principle of following binding judicial precedent.
+It promotes consistency, predictability, and stability in the legal system.
+The binding force of precedent depends on the applicable court hierarchy.
+
+
+
+DOMAIN: Procedural Law
+
+SUBDOMAIN: Judicial Procedure
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: stare, decisis, procedural law, judicial procedure

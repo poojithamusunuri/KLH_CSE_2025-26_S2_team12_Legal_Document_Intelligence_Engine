@@ -1,0 +1,73 @@
+DOCUMENT_ID: ACT013
+
+TITLE: Advocates (Amendment) Act, 1976
+
+DOCUMENT_TYPE: Act
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+SOURCE: Indian-Laws Dataset
+
+DESCRIPTION:
+Indian legislation containing 11 legal sections.
+
+
+
+
+
+
+DOMAIN: Administrative and Regulatory Law
+
+SUBDOMAIN: Government Regulation
+
+SOURCE_TYPE: Legislative Legal Text
+
+KEYWORDS: advocates, administrative and regulatory law, government regulation
+
+CONTENT:
+
+SECTION: 1
+
+1. Short title and commencement.- (1) This Act may be called the Advocates (Amendment) Act, 1976. (2) Save as otherwise provided in this Act, it shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint and different dates may be appointed for different provisions of this Act.
+
+SECTION: 10
+
+10. [Amendment of section 55.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 31-3-1988).
+
+SECTION: 11
+
+11. Transitional provisions.- Every person holding office as- (i) Chairman or Vice-Chairman of the Bar Council of India; or (ii) Chairman or Vice-Chairman of any State Bar Council, immediately before the coming into force of section 4 or, as the case may be, section 3 of this Act shall cease to hold such office on such commencement. 1. 15th October, 1976, vide notification No. G.S.R. 837(E), dated 8th October, 1976, see Gazette of India, Extraordinary, Part II, sec. 3(i).
+
+SECTION: 2
+
+2. [Amendment of section 2.] Rep. by the Repealing and Amending Act, 1988 (19 of 1988), s. 2 and the First Schedule (w.e.f. 31-3-1988).
+
+SECTION: 3
+
+3. [Amendment of section 3.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 31-3-1988).
+
+SECTION: 4
+
+4. [Amendment of section 4.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 31-3-1988).
+
+SECTION: 5
+
+5. [Amendment of section 15.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 31-3-1988).
+
+SECTION: 6
+
+6. [Amendment of section 24.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 31-3-1988).
+
+SECTION: 7
+
+7. [Omission of section 31.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 31-3-1988).
+
+SECTION: 8
+
+8. [Amendment of section 24.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 31-3-1988).
+
+SECTION: 9
+
+9. [Substitution of new section for section 46.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 31-3-1988).

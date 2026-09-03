@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE022
+
+TITLE: Prohibition
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Constitutional Remedies
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+prohibition, writ, jurisdiction, tribunal
+
+DESCRIPTION:
+A writ of Prohibition may be issued to prevent a subordinate court,
+tribunal, or authority from continuing proceedings beyond its jurisdiction
+or contrary to applicable legal limits.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: prohibition, constitutional law, constitutional principles

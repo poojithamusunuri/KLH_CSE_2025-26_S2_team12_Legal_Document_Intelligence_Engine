@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE014
+
+TITLE: Burden of Proof
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Evidence Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+burden of proof, evidence, legal responsibility, facts
+
+DESCRIPTION:
+The Burden of Proof refers to the legal responsibility of establishing
+facts or assertions before a court. The applicable burden depends on the
+nature of the proceeding and the relevant law.
+
+
+
+DOMAIN: Procedural Law
+
+SUBDOMAIN: Judicial Procedure
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: burden, proof, procedural law, judicial procedure

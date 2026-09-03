@@ -1,0 +1,129 @@
+DOCUMENT_ID: ACT027
+
+TITLE: Aligarh Muslim University (Amendment) Act, 1972
+
+DOCUMENT_TYPE: Act
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+SOURCE: Indian-Laws Dataset
+
+DESCRIPTION:
+Indian legislation containing 25 legal sections.
+
+
+
+
+
+
+DOMAIN: Administrative and Regulatory Law
+
+SUBDOMAIN: Government Regulation
+
+SOURCE_TYPE: Legislative Legal Text
+
+KEYWORDS: aligarh, muslim, university, administrative and regulatory law, government regulation
+
+CONTENT:
+
+SECTION: 1
+
+1. Short title and commencement.- (1) This Act may be called the Aligarh Muslim University (Amendment) Act, 1972. (2) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint. 1. 17th June, 1972, vide notification No. S.O. 1683, dated 17th June, 1972, see Gazette of India, Part II, sec. 3 (ii).
+
+SECTION: 10
+
+10. [Amendment of section 13.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 11
+
+11. [Substitution of new section for section 15.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 12
+
+12. [Amendment of section 16.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 13
+
+13. [Substitution of new section for section 17.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 14
+
+14. [Substitution of new section for section 18.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 15
+
+15. [Substitution of new section for section 19.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 16
+
+16. [Insertion of new sections 20, 20A and 20B.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 17
+
+17. [Substitution of new section for section 21.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 18
+
+18. [Amendment of section 22.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 19
+
+19. [Substitution of new section for section 23.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 2
+
+2. [Substitution of new section for section 2.] Rep. by the Repealing and Amending Act (38 of 1978), s. 2 and the First Schedule (w.e.f. 26-11-1978).
+
+SECTION: 20
+
+20. [Amendment of section 24.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 21
+
+21. [Amendment of section 25.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 22
+
+22. [Amendment of section 26.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 23
+
+23. [Substitution of new section for section 27.] Rep. by the Repealing and Amending Act (38 of 1978), s. 2 and the First Schedule (w.e.f. 26-11-1978).
+
+SECTION: 24
+
+24. [Substitution of new section for section 28.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 25
+
+25. [Amendment of section 29.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 26
+
+26. [Substitution of new section for section 34.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 27
+
+27. [Amendment of section 35.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 28
+
+28. [Amendment of section 36.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 29
+
+29. [Insertion of new sections 36A and 36B.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 3
+
+3. [Substitution of new section for section 3.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 30
+
+30. [Amendment of section 38.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).
+
+SECTION: 31
+
+31. [Insertion of new sections 40 and 41.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 26-11-1978).

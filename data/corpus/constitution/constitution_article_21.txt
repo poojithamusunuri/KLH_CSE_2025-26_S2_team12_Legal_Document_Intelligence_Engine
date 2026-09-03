@@ -1,0 +1,25 @@
+DOCUMENT_ID: CONST005
+
+TITLE: Constitution of India - Article 21: Protection of Life and Personal Liberty
+
+DOCUMENT_TYPE: Constitution
+
+DOMAIN: Constitutional Law
+
+JURISDICTION: India
+
+YEAR: 1950
+
+AUTHORITY: Constituent Assembly of India
+
+SOURCE: Constitution of India
+
+SOURCE_TYPE: Primary Legal Text
+
+KEYWORDS: life, personal liberty, procedure established by law, fundamental rights
+
+CONTENT:
+
+Article 21: Protection of life and personal liberty.
+
+No person shall be deprived of his life or personal liberty except according to procedure established by law.

@@ -1,0 +1,23 @@
+DOCUMENT_ID: CONST009
+
+TITLE: Constitution of India - Article 39A: Equal Justice and Free Legal Aid
+
+DOCUMENT_TYPE: Constitution
+
+DOMAIN: Constitutional Law
+
+JURISDICTION: India
+
+YEAR: 1950
+
+AUTHORITY: Constituent Assembly of India
+
+SOURCE: Constitution of India
+
+SOURCE_TYPE: Primary Legal Text
+
+KEYWORDS: equal justice, free legal aid, access to justice, legal assistance
+
+CONTENT:
+
+Article 39A directs the State to secure that the operation of the legal system promotes justice on a basis of equal opportunity and to provide free legal aid, by suitable legislation, schemes or other means, so that opportunities for securing justice are not denied because of economic or other disabilities.

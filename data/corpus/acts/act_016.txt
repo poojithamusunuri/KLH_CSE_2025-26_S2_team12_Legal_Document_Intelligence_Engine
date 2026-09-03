@@ -1,0 +1,57 @@
+DOCUMENT_ID: ACT016
+
+TITLE: African Development Bank Act, 1983
+
+DOCUMENT_TYPE: Act
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+SOURCE: Indian-Laws Dataset
+
+DESCRIPTION:
+Indian legislation containing 7 legal sections.
+
+
+
+
+
+
+DOMAIN: Administrative and Regulatory Law
+
+SUBDOMAIN: Government Regulation
+
+SOURCE_TYPE: Legislative Legal Text
+
+KEYWORDS: african, development, bank, administrative and regulatory law, government regulation
+
+CONTENT:
+
+SECTION: 1
+
+The African Development Bank Act, 1983 1. Short title, extent and commencement.- (1) This Act may be called the African Development Bank Act, 1983. (2) It extends to the whole of India. (3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint.
+
+SECTION: 2
+
+The African Development Bank Act, 1983 2. Definitions.- In this Act, unless the context otherwise requires,- (a) "Agreement" means the agreement for the establishment of the African Development Bank; (b) "Bank" means the African Development Bank established under the Agreement.
+
+SECTION: 3
+
+The African Development Bank Act, 1983 3. Payments to Bank.- (1) There shall be paid out of the Consolidated Fund of India, after due appropriation made by Parliament by law in this behalf, all such sums as may, from time to time, be required for the purpose of paying,- (a) the subscriptions payable by the Central Government to the Bank under Articles 6, 7, 10 and 21 of the Agreement; (b) any sums payable by the Central Government to the Bank under Article 28 of the Agreement; (2) The Central Government may, if it thinks fit so to do, create and issue to the Bank, in such form as it thinks fit, any non-interest bearing and non-negotiable notes or other obligations.
+
+SECTION: 4
+
+The African Development Bank Act, 1983 4. Reserve Bank to be depository for Bank.- The Reserve Bank of India shall be the depository of the Indian currency holdings of the Bank.
+
+SECTION: 5
+
+The African Development Bank Act, 1983 5. Conferment of status and certain immunities, exemptions and privileges on Bank and conferment of certain immunities, exemptions and privileges on its officers and employees.- (1) Notwithstanding anything to the contrary contained in any other law, the provisions of the Agreement set out in the Schedule shall have the force of law in India; Provided that nothing in Article 57 of the Agreement shall be construed as- (a) entitling the Bank to import into India goods free of any duty of customs without any restriction on their subsequent sale therein; or (b) conferring on the Bank any exemption from duties or taxes which form part of the price of goods sold; or (c) conferring on the Bank any exemption from duties or taxes which are in fact no more than charges for services rendered. (2) The Central Government may, by notification in the Official Gazette, amend the Schedule in conformity with any amendments, duly made and adopted, of the provisions of the Agreement set out therein.
+
+SECTION: 6
+
+The African Development Bank Act, 1983 6. Power to make rules.- The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.
+
+SECTION: 7
+
+The African Development Bank Act, 1983 7. Notifications issued under section 5 and rules made under section 6 to be laid before Parliament.- Every notification issued under sub-section (2) of section 5 and every rule made under section 6 shall be laid, as soon as may be after it is issued or made, before each of the House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the notification or, as the case may be, in the rule or both Houses agree that the notification or rule should not be issued or made, the notification or rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that notification or rule. 1. 15th December, 1983, vide notification No. G.S.R. 889(E), dated 14th December, 1983, see Gazette of India, Extraordinary, Part II, sec. 3(i).

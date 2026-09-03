@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE002
+
+TITLE: Natural Justice
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Administrative Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+natural justice, fairness, hearing, impartiality, administrative law
+
+DESCRIPTION:
+Natural Justice refers to fundamental procedural fairness in decision-making.
+It generally requires impartial decision-makers and a fair opportunity for
+affected persons to present their case.
+
+
+
+DOMAIN: Administrative Law
+
+SUBDOMAIN: Administrative Justice
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: natural, justice, administrative law, administrative justice

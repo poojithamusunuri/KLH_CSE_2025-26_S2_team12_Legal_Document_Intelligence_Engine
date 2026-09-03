@@ -1,0 +1,57 @@
+DOCUMENT_ID: ACT020
+
+TITLE: Agricultural Produce (Grading and Marking) Act, 1937
+
+DOCUMENT_TYPE: Act
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+SOURCE: Indian-Laws Dataset
+
+DESCRIPTION:
+Indian legislation containing 7 legal sections.
+
+
+
+
+
+
+DOMAIN: Agricultural Law
+
+SUBDOMAIN: Agriculture and Rural Regulation
+
+SOURCE_TYPE: Legislative Legal Text
+
+KEYWORDS: agricultural, produce, grading, marking, agricultural law, agriculture and rural regulation
+
+CONTENT:
+
+SECTION: 1
+
+1. Short title and extent.- (1) This Act may be called the Agricultural Produce (Grading and Marking) Act, 1937. 3[(2) It extends to the whole of India 4***.]
+
+SECTION: 2
+
+2. Explanations.- In this Act, unless the contrary appears from the subject or context,- (a) "agricultural produce" includes all produce of agriculture or horticulture and all articles of food or drink wholly or partly manufactured from any such produce, and fleeces and the skins of animals; (b) "counterfeit" has the meaning assigned to that word by section 28 of the Indian Penal Code (45 of 1860); (c) "covering" includes any vessel, box, crate, wrapper, tray or other container; (d) "grade designation" means a designation prescribed as indicative of the quality of any scheduled article; (e) "grade designation mark" means a mark prescribed as representing a particular grade designation; (f) "quality", in relation to any article, includes the state and condition of the article; (g) "prescribed" means prescribed by rules made under this Act; (h) "scheduled article" means an article included in the Schedule; 5*** (i) an article is said to be marked with a grade designation mark, if the article itself is marked with a grade designation mark or any covering containing or label attached to such article is so marked; 6[(j) an article is said to be migraded if,- (i) the article is not of the quality prescribed for the grade designation with which it is marked; (ii) the composition of the article offered for grading is altered in any way after a sample has been drawn for analysis and determination of the grade designation of the article in accordance with the rules made under this Act; (iii) the article is tampered with in any manner; and (iv) any false claim is made for the quality prescribed for its grade designation, upon the label or through advertisement or in any other manner.]
+
+SECTION: 3
+
+3. Prescription of grade designations.- 1[(1)] The Central Government may, after previous publication by notification in the Official Gazette, 2[make rules to carry out the provisions of this Act. (2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:-] (a) fixing grade designations to indicate the quality of any scheduled article; (b) defining the quality indicated by every grade designation; (c) specifying grade designation marks to represent particular grade designations; (d) authorising a person or a body of persons, subject to any prescribed conditions, to mark with a grade designation mark any article in respect of which such mark has been prescribed or any covering containing or label attached to any such article; (e) specifying the conditions referred to in clause (d) including in respect of any article conditions as to the manner of marking, the manner in which the article shall be packed, the type of covering to be used, and the quantity by weight, number or otherwise to be included in each covering; (f) providing for the payment of any expenses incurred in connection with the manufacture or use of any implement necessary for the reproduction of a grade designation mark or with the manufacture or use of any covering or label marked with a grade designation mark 3[or with measures for the control of the quality of articles marked with grade designation marks including testing of samples and inspection of such articles or with any publicity work carried out to promote the sale of any class of such articles;] 4*** (g) providing for the confiscation and disposal of produce marked otherwise than in accordance with the prescribed conditions with a grade designation mark; 5[(h) any other matter which is required to be, or may be, prescribed.] 6[7[(3)] Every rule made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.]
+
+SECTION: 4
+
+4. Penalty for unauthorised marking with grade designation mark.- Whoever marks any scheduled article with a grade designation mark, not being authorised to do so by rule made under section 3, shall be punishable 2[with imprisonment for a term not exceeding six months and fine not exceeding five thousand rupees].
+
+SECTION: 5
+
+5. Penalty for counterfeiting grade designation mark.- Whoever counterfeits any grade designation mark or has in his possession any die, plate or other instrument for the purpose of counterfeiting a grade designation mark shall be punishable 3[with imprisonment for a term not exceeding exceeding three years and fine not exceeding five thousand rupees].
+
+SECTION: 6
+
+6. Extension of application of Act.- The Central Government, after such consultation as it thinks fit of the interests likely to be affected, may by notification in the Official Gazette declare that the provisions of this Act shall apply to an article of agricultural produce not included in the Schedule 1[or to an article other than an article of agricultural produce] and on the publication of such notification such article shall be deemed to be included in the Schedule. 1. Ins. by Act 13 of 1942, s. 3 (w.e.f. 24-2-1937).
+
+SECTION: 7
+
+The Schedule [See Section 2] 1. Fruit. 2. Vegetables. 3. Eggs. 4. Dairy produce. 5. Tobacco. 6. Coffee. 7. Hides and Skins. 8. Fruit products. 9. Atta. 10. Oilseeds. 11. Vegetable oils (including hydrogenated oils and vegetable fats). 12. Cotton. 13. Rice. 14. Lac. 15. Wheat 16. Sann Hemp. 17. Sugarcane gur (Jaggery). 18. Myrobalans. 19. Bura. 20. Wool and Goat Hair. 21. Bristles. 22. Rosin and Turpentine. 23. Arecanuts. 24. Essential Oil. 25. Cashewnut. 26. Cardamom. 27. Pepper. 28. Ginger. 29. Honey. 30. Curry Powder. 31. Kapok. 32. Raw Jute. 33. Paddy. 34. Millets. 35. Mesta. 36. Chilies. 37. Turmeric. 38. Tapioca Chips and Tapioca Flour 39. Sisal and Aloe Fibres. 40. Oil cakes. 41. Condiments and Spices. (Other than pepper, ginger, cashewnut, cardamom, chillies and turmeric, to which the provisions of the Act have already been applied.) 42. Pulses. 43. Walnut. 44. Animal casings (cattle, buffaloes, sheep, goats and pigs). 45. Guar Gum. 46. Karaya Gum. 47. Senna Leaves and Pods. 48. Palmyra fibre. 49. Catechu. 50. Tendu Leaves. 51. Water Chest-nut. 52. Mushrooms. 53. Poppy seed. 54. Cashew-shell Oil (Liquid). 55. Beeswax. 56. Gram (Cicer arietinum). 57. Jowar (Sorghum vulgare). 58. Maize (Zea mays). 59. Barley (Hordeum vulgare). 60. Ragi (Eleusio coracana). 61. Bajra (Pennisetum typhoides). 62. Sheekakai powder. 63. Compounded asafoetida.

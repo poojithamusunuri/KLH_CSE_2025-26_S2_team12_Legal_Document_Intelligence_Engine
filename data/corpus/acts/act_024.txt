@@ -1,0 +1,129 @@
+DOCUMENT_ID: ACT024
+
+TITLE: Air Force Act, 1950
+
+DOCUMENT_TYPE: Act
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+SOURCE: Indian-Laws Dataset
+
+DESCRIPTION:
+Indian legislation containing 25 legal sections.
+
+
+
+
+
+
+DOMAIN: Administrative and Regulatory Law
+
+SUBDOMAIN: Government Regulation
+
+SOURCE_TYPE: Legislative Legal Text
+
+KEYWORDS: force, administrative and regulatory law, government regulation
+
+CONTENT:
+
+SECTION: 1
+
+Chapter I Preliminary 1. Short title and commencement.- (1) This Act may be called the Air Force Act, 1950. (2) It shall come into force on such date2 as the Central Government may by notification in the Official Gazette, appoint in this behalf.
+
+SECTION: 10
+
+Chapter III Commission, Appointment and Enrolment 10. Commission and appointment.- The President may grant, to such person as he thinks fit a commission as an officer or appoint any person as a warrant officer of the Air Force.
+
+SECTION: 100
+
+100. Provision for dependants of prisoner of war from his pay and allowances.- It shall be lawful for proper provision to be made by the prescribed authorities for any dependants of any person subject to this Act, who is a prisoner of war or is missing, out of his pay and allowances.
+
+SECTION: 101
+
+101. Period during which a person is deemed to be a prisoner of war.- For the purposes of sections 99 and 100, a person shall be deemed to continue to be a prisoner of war until the conclusion of any inquiry into has conduct such as is referred to in section 97, and if he is cashiered or dismissed from the service in consequence of such conduct, until the date of such cashiering or dismissal.
+
+SECTION: 102
+
+Chapter IX Arrest and Proceedings before Trial 102. Custody of offenders.- (1) Any person subject to this Act who is charged with an offence may be taken into air force custody. (2) Any such person may be ordered into air force custody by any superior officer. (3) Any officer may order into air force custody any officer, though he may be of a higher rank, engaged in a quarrel, affray or disorder.
+
+SECTION: 103
+
+103. Duty of commanding officer in regard to detention.- (1) It shall be the duty of every commanding officer to take care that a person under his command when charged with an offence is not detained in custody for more than forty-eight hours after the committal of such person into custody is reported to him, without the charge being investigated, unless investigation within that period seems to him to be impracticable with due regard to the public service. (2) Every case of a person being detained in custody beyond a period of forty eight hours, and the reason thereof shall be reported by the commanding officer to the air or other officer to whom application would be made to convene a general or district court-martial for the trial of the person charged. (3) In reckoning the period of forty-eight hours specified in sub-section (1), Sundays and public holidays shall be excluded. (4) Subject to the provisions of this Act, the Central Government may make rules a providing for the manner in which and the period for which any person subject to this Act may be taken into and detained in air force custody, pending the trial by any competent authority for any offence committed by him.
+
+SECTION: 104
+
+104. Interval between committal and court-martial.- In every case where any such person as is mentioned in section 102 and as is not on active service remains in such custody for a longer period than eight days, without a court-martial for his trial being ordered to assemble, a special report giving reasons for the delay shall be made by his commanding officer in the manner prescribed; and similar report shall be forwarded every eight days until a court-martial is assembled or such person is released from custody.
+
+SECTION: 105
+
+105. Arrest by civil authorities.- Wherever any person subject to this Act, who is accused of any offence under this Act, is within the jurisdiction of any magistrate or police officer, such magistrate or police officer shall aid in the apprehension and delivery to air force custody of such person upon receipt of a written application to that effect signed by his commanding officer.
+
+SECTION: 106
+
+106. Capture of deserters.- (1) Whenever any person subject to this Act deserts, the commanding officer of the unit or detachment to which he belongs, shall give written information of the desertion to such civil authorities as, in his opinion, may be able to afford assistance towards the capture of the deserter; and such authorities shall thereupon take steps for the apprehension of the said deserter in like manner as if he were a person for whole apprehension a warrant had been issued by a magistrate; and shall deliver the deserter, when apprehended, into air force custody. (2) Any police officer may arrest without warrant any person reasonably believed to be subject to this Act, and to be a deserter or to be travelling without authority, and shall bring him without delay before the nearest magistrate, to be dealt with according to law.
+
+SECTION: 107
+
+107. Inquiry into absence without leave.- (1) When any person subject to this Act has been absent from his duty without due authority for a period of thirty days, a Court of inquiry shall, as soon as practicable, be assembled, and such Court shall, on oath or affirmation administered. In the prescribed manner, inquire respecting the absence of the person, and the deficiency, if any, in the property of the Government entrusted to his care, or in any arms, ammunition, equipment, instruments, clothing or necessaries, and if satisfied of the fact of such absence without due authority, or other sufficient cause, the Court shall declare such absence and the period thereof, and the said deficiency, if any; and the commanding officer of the unit to which the person belongs shall enter in the court-martial book of the unit a record of declaration. (2) If the person declared absent does not afterwards surrender or is not apprehended, he shall, for the purposes of this Act, be deemed to be a deserter.
+
+SECTION: 108
+
+108. Provost-marshals.- (1) Provost-marshals may be appointed by 1[the Chief of the Air Staff], or by any prescribed officer. (2) The duties of a provost-marshal are to take charge of persons confined for any offence, to preserve good order and discipline, and to prevent breaches of the same by persons serving in, or attached to, the Air Force. (3) A provost-marshal may at any time arrest and detain for trial any person subject to this Act who commits, or is charged with, an offence, and may also carry into effect any punishment to be inflicted in pursuance of the sentence awarded by a court-martial, or by an officer exercising authority under section 82 but shall not inflict any punishment on his own authority: Provided that no officer shall be so arrested or detained otherwise than on the order of another officer. (4) For the purposes of sub-sections (2) and (3), a provost-marshal shall be deemed to include a provost-marshal appointed under the Army Act or the Navy-Act and any person legally exercising authority under him or on his behalf.
+
+SECTION: 109
+
+Chapter X Courts-Martial 109. Different kinds of courts-martial.- For purposes of this Act there shall be three kinds of courts-martial, that is to say,- (a) general courts-martial. (b) district courts-martial. (c) summary general courts-martial.
+
+SECTION: 11
+
+11. Ineligibility of aliens for enrolment.- No person who is not a citizen of India shall, except with the consent of the Central Government signified in writing, be enrolled in the Air Force: Provided that nothing contained in this section shall bar the enrolment of the subjects of Nepal in the Air Force.
+
+SECTION: 110
+
+110. Power to convene a general court-martial.- A general court-martial may be convened by the Central Government or 1[the Chief of the Air Staff] or by any officer empowered in this behalf by warrant of1[the Chief of the Air Staff].
+
+SECTION: 111
+
+111. Power to convene a district court-martial.- A district court-martial may be convened by an officer having power to convene a general court-martial, or by any officer empowered in this behalf by warrant of any such officer.
+
+SECTION: 112
+
+112. Contents of warrants issued under sections 110 and 111.- A warrant issued under section 110 or section 111 may contain such restrictions, reservations or conditions as the officer issuing it may think fit.
+
+SECTION: 113
+
+113. Power to convene a summary general court-martial.- The following authorities shall have the power to convene a summary general court-martial, namely:- (a) an officer empowered in this behalf by an order of the Central Government or of 1[the Chief of the Air Staff]; (b) on active service, the officer commanding the forces in the field, or any officer empowered by him in this behalf; (c) an officer commanding any detached portion of the Air Force on active service when, in his opinion, it is not practicable with due regard to discipline and the exigencies of the service, that an offence should be tried by a general court-martial.
+
+SECTION: 114
+
+114. Composition of general court-martial.- A general court-martial shall consist of not less than five officers, each of whom has held a commission for not less than three whole years and of whom not less than four are of a rank not below that of flight-lieutenant.
+
+SECTION: 115
+
+115. Composition of district court-martial.- A district court-martial shall consist of not less than three officers, each of whom has held a commission for not less than two whole years.
+
+SECTION: 116
+
+116. Composition of summary general court-martial.- A summary general court-martial shall consist of not less than three officers.
+
+SECTION: 117
+
+117. Dissolution of court-martial.- (1) If a court-martial after the commencement of a trial is reduced below the minimum number of Officers required by this Act, it shall be dissolved. (2) If on account of the illness of the judge advocate or of the accused before the finding, it is impossible to continue the trial, a court-martial shall be dissolved. (3) The officer who convened a court-martial may dissolve such court-martial if it appears to him that the exigencies of the service or the necessities of discipline render it impossible or in expedient to continue the said court-martial. (4) Where a court-martial is dissolved under this section, the accused may be tried again.
+
+SECTION: 118
+
+118. Powers of general and summary general courts-martial.- A general or summary general court- martial shall have power to try any person subject to this Act for any offence punishable there in and to pass any sentence authorised thereby.
+
+SECTION: 119
+
+119. Powers of district court-martial.- A district court-martial shall have power to try any person subject to this Act other than an officer or warrant officer for any offence made punishable therein, and to pass any sentence authorised by this Act other than a sentence of death, transportation, or imprisonment for a term exceeding two years.
+
+SECTION: 12
+
+12. Ineligibility of females for enrolment or employment.- No female shall be eligible for enrolment or employment in the Air Force, except in such corps, department, branch or other body forming part of, or attached to any portion of, the Air Force as the Central Government may, by notification, specify in this behalf: Provided that nothing contained in this section shall affect the provisions of any law for the time being in force providing for the raising and maintenance of any service auxiliary to the Air Force or any branch thereof in which females are eligible for enrolment or employment.
+
+SECTION: 120
+
+120. Prohibition of second trial.- When any person subject to this Act has been acquitted or convicted of an offence by a court-martial or by a criminal court, or has been dealt with under section 82 or section 86, he shall not be liable to be tried again for the same offence by a court-martial or dealt with under the said sections.

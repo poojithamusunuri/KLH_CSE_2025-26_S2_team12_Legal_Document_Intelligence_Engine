@@ -1,0 +1,25 @@
+DOCUMENT_ID: CONST006
+
+TITLE: Constitution of India - Article 21A: Right to Education
+
+DOCUMENT_TYPE: Constitution
+
+DOMAIN: Constitutional Law
+
+JURISDICTION: India
+
+YEAR: 1950
+
+AUTHORITY: Constituent Assembly of India
+
+SOURCE: Constitution of India
+
+SOURCE_TYPE: Primary Legal Text
+
+KEYWORDS: education, children, fundamental right, free education
+
+CONTENT:
+
+Article 21A: Right to education.
+
+The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine.

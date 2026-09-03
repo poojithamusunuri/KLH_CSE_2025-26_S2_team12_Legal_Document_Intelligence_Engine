@@ -1,0 +1,23 @@
+DOCUMENT_ID: CONST012
+
+TITLE: Constitution of India - Article 226: High Court Writ Jurisdiction
+
+DOCUMENT_TYPE: Constitution
+
+DOMAIN: Constitutional Law
+
+JURISDICTION: India
+
+YEAR: 1950
+
+AUTHORITY: Constituent Assembly of India
+
+SOURCE: Constitution of India
+
+SOURCE_TYPE: Primary Legal Text
+
+KEYWORDS: High Court, writs, habeas corpus, mandamus, prohibition, quo warranto, certiorari
+
+CONTENT:
+
+Article 226 empowers every High Court to issue directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, for enforcement of fundamental rights and for other purposes.

@@ -1,0 +1,47 @@
+DOCUMENT_ID: COREACT009
+
+TITLE: Environment (Protection) Act, 1986
+
+DOCUMENT_TYPE: Core Legal Act Knowledge
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+YEAR: 1986
+
+DOMAIN: Environmental Law
+
+SUBDOMAIN: Environmental Protection
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+SEARCH_KEYWORDS: environment, pollution, environmental protection, hazardous substances, environmental standards, government regulation
+
+DESCRIPTION:
+
+A central Indian law providing a framework for environmental protection and regulation.
+
+CORE LEGAL CONCEPTS:
+
+- Protection of the environment
+- Environmental standards
+- Prevention of pollution
+- Hazardous substances
+- Government regulatory powers
+- Environmental compliance
+- Directions and enforcement
+
+IMPORTANT NOTE:
+
+This document is a structured legal knowledge summary created for
+information retrieval and educational purposes. It is not a substitute
+for the complete statutory text or professional legal advice.
+
+CONTENT:
+
+This document represents the major legal areas, concepts and topics
+covered by the legislation identified above. Retrieval systems may use
+this structured information to identify potentially relevant legal
+materials for a user's query.
+

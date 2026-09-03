@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE001
+
+TITLE: Rule of Law
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Constitutional Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+rule of law, equality, legality, government accountability, arbitrary power
+
+DESCRIPTION:
+The Rule of Law is the principle that every person and authority,
+including the government, is subject to law. Government power must be
+exercised according to established legal rules rather than arbitrary will.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: rule, constitutional law, constitutional principles

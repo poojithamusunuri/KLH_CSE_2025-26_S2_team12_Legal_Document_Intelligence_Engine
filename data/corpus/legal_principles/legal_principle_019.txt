@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE019
+
+TITLE: Habeas Corpus
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Constitutional Remedies
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+habeas corpus, unlawful detention, liberty, constitutional remedy
+
+DESCRIPTION:
+Habeas Corpus is a legal remedy used to challenge unlawful detention by
+requiring the detaining authority to justify the legal basis for a
+person's detention before a competent court.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: habeas, corpus, constitutional law, constitutional principles

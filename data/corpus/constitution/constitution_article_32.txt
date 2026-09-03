@@ -1,0 +1,27 @@
+DOCUMENT_ID: CONST008
+
+TITLE: Constitution of India - Article 32: Constitutional Remedies
+
+DOCUMENT_TYPE: Constitution
+
+DOMAIN: Constitutional Law
+
+JURISDICTION: India
+
+YEAR: 1950
+
+AUTHORITY: Constituent Assembly of India
+
+SOURCE: Constitution of India
+
+SOURCE_TYPE: Primary Legal Text
+
+KEYWORDS: Supreme Court, writs, habeas corpus, mandamus, certiorari, fundamental rights
+
+CONTENT:
+
+Article 32: Remedies for enforcement of rights conferred by this Part.
+
+The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by Part III is guaranteed.
+
+The Supreme Court has power to issue directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, for enforcement of fundamental rights.

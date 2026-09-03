@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE007
+
+TITLE: Judicial Review
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Constitutional Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+judicial review, constitutionality, executive action, legislation
+
+DESCRIPTION:
+Judicial Review is the power of courts to examine the legality and
+constitutional validity of legislative and executive actions within the
+scope permitted by the Constitution and applicable law.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: judicial, review, constitutional law, constitutional principles
