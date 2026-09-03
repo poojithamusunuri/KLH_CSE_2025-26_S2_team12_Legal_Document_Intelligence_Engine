@@ -28,4 +28,4 @@ data/processed/legal_chunks.json contains processed legal-document chunks genera
 
 ## Data Availability
 
-The corpus and generated processed data are excluded from version control. The repository contains the source code and data-processing scripts required to work with the corpus.
+The legal corpus and processed data are included in this repository so that the complete project can be cloned and executed with the provided source code and data-processing scripts.
