@@ -1,0 +1,157 @@
+P01 | PARTIAL | My employer has not paid my salary for three months.
+  issues=[Employment-related dispute] | confidence=MEDIUM
+  objects=[salary] | ranked=151
+
+P02 | PARTIAL | The owner refuses to return my rental deposit.
+  issues=[Property / ownership dispute, Contract-related issue, Tenancy-related matter] | confidence=HIGH
+  objects=[deposit] | ranked=161
+
+P03 | PARTIAL | Someone used my bank account without permission.
+  issues=[Banking / unauthorized transaction matter] | confidence=MEDIUM
+  objects=[account, bank] | ranked=0
+
+P04 | PARTIAL | The product I bought is defective and the seller refuses a refund.
+  issues=[Contract-related issue, Consumer / goods or services dispute] | confidence=HIGH
+  objects=[product] | ranked=111
+
+P05 | PARTIAL | I signed an agreement but the other party refused to perform its obligations.
+  issues=[Contract-related issue, Family / inheritance matter] | confidence=HIGH
+  objects=[agreement] | ranked=147
+
+P06 | PARTIAL | My landlord is not returning my security deposit after I vacated the house.
+  issues=[Tenancy-related matter] | confidence=MEDIUM
+  objects=[house, deposit] | ranked=150
+
+P07 | PASS | A driver hit my car and caused injuries.
+  issues=[Motor vehicle / accident-related matter] | confidence=MEDIUM
+  objects=[vehicle] | ranked=152
+
+P08 | PASS | My spouse and I are disputing the inheritance of our parents' property.
+  issues=[Family / inheritance matter] | confidence=MEDIUM
+  objects=[property] | ranked=104
+
+P09 | PARTIAL | Someone copied my photo and used it on a website without permission.
+  issues=[Intellectual property matter] | confidence=MEDIUM
+  objects=[] | ranked=23
+
+P10 | PARTIAL | I borrowed money from a friend and they now refuse repayment.
+  issues=[Contract-related issue, Consumer / goods or services dispute, Money / debt / recovery matter] | confidence=HIGH
+  objects=[money] | ranked=145
+
+P11 | PARTIAL | My boss has not paid my wages for two months.
+  issues=[Employment-related dispute] | confidence=MEDIUM
+  objects=[salary] | ranked=151
+
+P12 | PARTIAL | The seller delivered a faulty product and refused a remedy.
+  issues=[Contract-related issue, Consumer / goods or services dispute] | confidence=HIGH
+  objects=[product] | ranked=107
+
+P13 | PARTIAL | The tenant has not paid rent for six months.
+  issues=[Tenancy-related matter] | confidence=MEDIUM
+  objects=[] | ranked=170
+
+P14 | PARTIAL | The company dismissed me after I raised a complaint.
+  issues=[Employment-related dispute] | confidence=MEDIUM
+  objects=[] | ranked=132
+
+P15 | PASS | I need help with a legal issue.
+  issues=[] | confidence=LOW
+  objects=[] | ranked=0
+
+F01 | PASS | I paid my friend back for a personal loan.
+  issues=[] | confidence=LOW
+  objects=[loan] | ranked=159
+
+F02 | PASS | Our team completed the project.
+  issues=[] | confidence=LOW
+  objects=[] | ranked=0
+
+F03 | PASS | The agreement was discussed during a family meeting.
+  issues=[] | confidence=LOW
+  objects=[agreement] | ranked=109
+
+F04 | PASS | I work on a vehicle project.
+  issues=[] | confidence=LOW
+  objects=[vehicle, work] | ranked=90
+
+F05 | PASS | The person paid the amount voluntarily.
+  issues=[] | confidence=LOW
+  objects=[amount] | ranked=168
+
+F06 | PASS | I have a problem with money.
+  issues=[] | confidence=LOW
+  objects=[money] | ranked=114
+
+F07 | PASS | There is an issue with my agreement.
+  issues=[] | confidence=LOW
+  objects=[agreement] | ranked=109
+
+F08 | PASS | Someone is troubling me.
+  issues=[] | confidence=LOW
+  objects=[] | ranked=0
+
+N01 | PARTIAL | My boss hasn't given me my wages.
+  issues=[Employment-related dispute] | confidence=MEDIUM
+  objects=[salary] | ranked=22
+
+N02 | PARTIAL | The owner refuses to return my rental deposit.
+  issues=[Property / ownership dispute, Contract-related issue, Tenancy-related matter] | confidence=HIGH
+  objects=[deposit] | ranked=161
+
+N03 | PARTIAL | Someone used my bank account without permission.
+  issues=[Banking / unauthorized transaction matter] | confidence=MEDIUM
+  objects=[account, bank] | ranked=0
+
+N04 | PARTIAL | The product I bought is defective and the seller refuses a refund.
+  issues=[Contract-related issue, Consumer / goods or services dispute] | confidence=HIGH
+  objects=[product] | ranked=111
+
+N05 | FAIL | We had a verbal deal and now they are not honoring it.
+  issues=[] | confidence=LOW
+  objects=[agreement] | ranked=155
+
+N06 | PARTIAL | My house is being occupied by someone claiming ownership.
+  issues=[Property / ownership dispute] | confidence=MEDIUM
+  objects=[house] | ranked=101
+
+N07 | PARTIAL | I was discharged from work without notice.
+  issues=[] | confidence=LOW
+  objects=[work] | ranked=88
+
+N08 | PARTIAL | The company withheld my salary after I quit.
+  issues=[Employment-related dispute] | confidence=MEDIUM
+  objects=[salary] | ranked=101
+
+N09 | PARTIAL | I am not being paid for the work I did.
+  issues=[] | confidence=LOW
+  objects=[work] | ranked=170
+
+N10 | PARTIAL | A person copied my logo and is using it commercially.
+  issues=[Intellectual property matter] | confidence=MEDIUM
+  objects=[logo] | ranked=14
+
+N11 | PARTIAL | My college is harassing me and I want help.
+  issues=[] | confidence=LOW
+  objects=[college] | ranked=0
+
+R01 | FAIL | conspiracy
+  issues=[] | confidence=LOW
+  objects=[] | ranked=3
+
+R02 | FAIL | conspiraci
+  issues=[] | confidence=LOW
+  objects=[] | ranked=0
+
+R03 | PARTIAL | agreement between parties
+  issues=[] | confidence=LOW
+  objects=[agreement] | ranked=130
+
+R04 | FAIL | ragging
+  issues=[] | confidence=LOW
+  objects=[] | ranked=1
+
+R05 | PARTIAL | Defamation online and someone published my photo.
+  issues=[Intellectual property matter] | confidence=MEDIUM
+  objects=[] | ranked=22
+
+SUMMARY | pass=2 partial=24 fail=4 uncertain=9

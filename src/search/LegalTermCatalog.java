@@ -1,16 +1,19 @@
 package search;
 
-import java.util.ArrayList;
-import java.util.List;
+import structures.SimpleList;
 
 public class LegalTermCatalog {
 
-    private final List<String> terms;
+    private final SimpleList<String> terms;
 
     public LegalTermCatalog() {
-        terms = new ArrayList<>();
 
-        // Core legal acts
+        terms = new SimpleList<>();
+
+        // ============================================================
+        // CORE LEGAL ACTS
+        // ============================================================
+
         add("Companies Act, 2013");
         add("Indian Contract Act, 1872");
         add("Information Technology Act, 2000");
@@ -18,7 +21,10 @@ public class LegalTermCatalog {
         add("Copyright Act, 1957");
         add("Environment Protection Act, 1986");
 
-        // Common legal acts from the corpus
+        // ============================================================
+        // COMMON LEGAL ACTS FROM THE CORPUS
+        // ============================================================
+
         add("Negotiable Instruments Act, 1881");
         add("Companies Act, 1956");
         add("Income-tax Act, 1961");
@@ -33,7 +39,10 @@ public class LegalTermCatalog {
         add("Finance Act, 1969");
         add("SEBI Act, 1992");
 
-        // Bihar Acts
+        // ============================================================
+        // BIHAR ACTS
+        // ============================================================
+
         add("Bihar Land Disputes Resolution Act, 2009");
         add("Bihar Land Reforms Act, 1950");
         add("Bihar Tenancy Act, 1885");
@@ -42,7 +51,10 @@ public class LegalTermCatalog {
         add("Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961");
         add("Bihar Consolidation of Holdings and Prevention of Fragmentation Act, 1956");
 
-        // Other external acts
+        // ============================================================
+        // OTHER EXTERNAL ACTS
+        // ============================================================
+
         add("Central Excises and Salt Act, 1944");
         add("Bombay Sales Tax Act, 1959");
         add("Foreign Exchange Management Act, 1999");
@@ -75,13 +87,87 @@ public class LegalTermCatalog {
         add("Urban Ceiling Regulation Act");
         add("Entertainment Tax Act");
         add("Sale of Goods Act, 1893");
+
+        // ============================================================
+        // COMMON LEGAL TERMS
+        // ============================================================
+
+        add("Divorce");
+        add("Marriage");
+        add("Maintenance");
+        add("Custody");
+        add("Alimony");
+        add("Adoption");
+        add("Inheritance");
+        add("Property");
+        add("Land");
+        add("Ownership");
+        add("Sale");
+        add("Transfer");
+        add("Contract");
+        add("Conspiracy");
+        add("Agreement");
+        add("Breach of Contract");
+        add("Specific Performance");
+        add("Compensation");
+        add("Damages");
+        add("Negligence");
+        add("Fraud");
+        add("Forgery");
+        add("Criminal Procedure");
+        add("Civil Procedure");
+        add("Bail");
+        add("Arrest");
+        add("Assault");
+        add("Murder");
+        add("Attempt to Murder");
+        add("Theft");
+        add("Robbery");
+        add("Cheating");
+        add("Fraud");
+        add("Forgery");
+        add("Cheque");
+        add("Bounce");
+        add("Bounced Cheque");
+        add("Dishonour");
+        add("Dishonor");
+        add("Kidnapping");
+        add("Criminal Intimidation");
+        add("Defamation");
+        add("Evidence");
+        add("Witness");
+        add("Appeal");
+        add("Petition");
+        add("Judgment");
+        add("Order");
+        add("Jurisdiction");
+        add("Limitation");
+        add("Injunction");
+        add("Constitutional Rights");
+        add("Fundamental Rights");
+        add("Right to Property");
+        add("Consumer Rights");
+        add("Employment");
+        add("Dismissal");
+        add("Salary");
+        add("Tax");
+        add("Income Tax");
+        add("Corruption");
+        add("Copyright");
+        add("Trademark");
+        add("Patent");
+        add("Cyber Crime");
+        add("Data Protection");
+        add("Ragging");
+        add("Anti-Ragging");
+        add("Ragging in Educational Institution");
     }
 
     private void add(String term) {
         terms.add(term);
     }
 
-    public List<String> getTerms() {
+    public SimpleList<String> getTerms() {
         return terms;
     }
 }

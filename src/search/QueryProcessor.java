@@ -1,9 +1,6 @@
 package search;
 
-import algorithms.Levenshtein;
-
-import java.util.ArrayList;
-import java.util.List;
+import structures.SimpleList;
 
 public class QueryProcessor {
 
@@ -11,6 +8,7 @@ public class QueryProcessor {
     private final FuzzyLegalSearch fuzzySearch;
 
     public QueryProcessor() {
+
         legalTermCatalog = new LegalTermCatalog();
         fuzzySearch = new FuzzyLegalSearch(legalTermCatalog);
     }
@@ -18,25 +16,32 @@ public class QueryProcessor {
     public QueryAnalysis analyze(String query) {
 
         if (query == null || query.trim().isEmpty()) {
+
             return new QueryAnalysis(
                     query,
                     QueryType.INVALID,
-                    new ArrayList<String>(),
+                    new SimpleList<String>(),
                     0
             );
         }
 
         String normalized = query.trim();
 
-        /*
-         * First check for an exact legal term.
-         */
-        for (String term : legalTermCatalog.getTerms()) {
+        // ============================================================
+        // STEP 1: EXACT LEGAL TERM MATCH
+        // ============================================================
+
+        SimpleList<String> catalogTerms =
+                legalTermCatalog.getTerms();
+
+        for (int i = 0; i < catalogTerms.size(); i++) {
+
+            String term = catalogTerms.get(i);
 
             if (term.equalsIgnoreCase(normalized)) {
 
-                List<String> exactMatch =
-                        new ArrayList<>();
+                SimpleList<String> exactMatch =
+                        new SimpleList<String>();
 
                 exactMatch.add(term);
 
@@ -49,48 +54,43 @@ public class QueryProcessor {
             }
         }
 
-        /*
-         * No exact match.
-         * Try fuzzy matching using Levenshtein distance.
-         */
-        List<FuzzyLegalSearch.FuzzyResult> matches =
-                fuzzySearch.search(normalized, 2);
+        // ============================================================
+        // STEP 2: FUZZY LEGAL TERM MATCH
+        // ============================================================
+
+        SimpleList<FuzzyLegalSearch.FuzzyResult> matches =
+                fuzzySearch.search(normalized, 4);
 
         if (!matches.isEmpty()) {
 
-            /*
-             * Find the smallest edit distance.
-             */
             int bestDistance =
                     matches.get(0).getDistance();
 
-            for (
-                    FuzzyLegalSearch.FuzzyResult match
-                    : matches) {
+            // Find the smallest edit distance
+            for (int i = 1; i < matches.size(); i++) {
+
+                FuzzyLegalSearch.FuzzyResult match =
+                        matches.get(i);
 
                 if (match.getDistance() < bestDistance) {
+
                     bestDistance =
                             match.getDistance();
                 }
             }
 
-            /*
-             * Keep only the candidates having
-             * the best distance.
-             */
-            List<String> bestMatches =
-                    new ArrayList<>();
+            // Keep only the best fuzzy matches
+            SimpleList<String> bestMatches =
+                    new SimpleList<String>();
 
-            for (
-                    FuzzyLegalSearch.FuzzyResult match
-                    : matches) {
+            for (int i = 0; i < matches.size(); i++) {
 
-                if (match.getDistance()
-                        == bestDistance) {
+                FuzzyLegalSearch.FuzzyResult match =
+                        matches.get(i);
 
-                    bestMatches.add(
-                            match.getTerm()
-                    );
+                if (match.getDistance() == bestDistance) {
+
+                    bestMatches.add(match.getTerm());
                 }
             }
 
@@ -102,17 +102,21 @@ public class QueryProcessor {
             );
         }
 
-        /*
-         * No legal-term match.
-         * Treat it as a general text search.
-         */
+        // ============================================================
+        // STEP 3: GENERAL TEXT SEARCH
+        // ============================================================
+
         return new QueryAnalysis(
                 query,
                 QueryType.TEXT_SEARCH,
-                new ArrayList<String>(),
+                new SimpleList<String>(),
                 -1
         );
     }
+
+    // ================================================================
+    // QUERY TYPES
+    // ================================================================
 
     public enum QueryType {
 
@@ -125,17 +129,21 @@ public class QueryProcessor {
         TEXT_SEARCH
     }
 
+    // ================================================================
+    // QUERY ANALYSIS RESULT
+    // ================================================================
+
     public static class QueryAnalysis {
 
         private final String originalQuery;
         private final QueryType type;
-        private final List<String> resolvedTerms;
+        private final SimpleList<String> resolvedTerms;
         private final int distance;
 
         public QueryAnalysis(
                 String originalQuery,
                 QueryType type,
-                List<String> resolvedTerms,
+                SimpleList<String> resolvedTerms,
                 int distance) {
 
             this.originalQuery = originalQuery;
@@ -152,7 +160,7 @@ public class QueryProcessor {
             return type;
         }
 
-        public List<String> getResolvedTerms() {
+        public SimpleList<String> getResolvedTerms() {
             return resolvedTerms;
         }
 

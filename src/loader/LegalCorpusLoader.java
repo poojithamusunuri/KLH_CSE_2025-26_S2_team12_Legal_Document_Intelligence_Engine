@@ -5,9 +5,7 @@ import model.LegalDocument;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
-import java.util.ArrayList;
-import java.util.List;
-
+import structures.SimpleList;
 public class LegalCorpusLoader {
 
     private final String corpusPath;
@@ -16,9 +14,10 @@ public class LegalCorpusLoader {
         this.corpusPath = corpusPath;
     }
 
-    public List<LegalDocument> loadDocuments() throws IOException {
+    public SimpleList<LegalDocument> loadDocuments() throws IOException {
 
-        List<LegalDocument> documents = new ArrayList<>();
+        SimpleList<LegalDocument> documents =
+        new SimpleList<>();
 
         File corpusDirectory = new File(corpusPath);
 
@@ -35,8 +34,8 @@ public class LegalCorpusLoader {
     }
 
     private void loadDirectory(
-            File directory,
-            List<LegalDocument> documents) throws IOException {
+        File directory,
+        SimpleList<LegalDocument> documents) throws IOException {
 
         File[] files = directory.listFiles();
 

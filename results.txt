@@ -1,0 +1,16 @@
+
+============================================================
+           LEGAL DOCUMENT INTELLIGENCE ENGINE
+============================================================
+
+Search Indian legal documents using exact and
+fuzzy legal-term recognition and efficient pattern search.
+
+Corpus loaded successfully.
+Documents available: 242
+
+Enter your legal query (or type 'flow' for citation-flow, 'schedule' for a scheduling demo, 'prime' for Miller-Rabin, or 'optimize' for research optimization): 
+Query cannot be empty.
+
+Search again? (y/n): 
+Exiting Legal Document Intelligence Engine.
