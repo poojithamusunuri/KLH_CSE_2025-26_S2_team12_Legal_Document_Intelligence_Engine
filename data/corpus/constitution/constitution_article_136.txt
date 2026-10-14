@@ -1,0 +1,23 @@
+DOCUMENT_ID: CONST010
+
+TITLE: Constitution of India - Article 136: Special Leave to Appeal
+
+DOCUMENT_TYPE: Constitution
+
+DOMAIN: Constitutional Law
+
+JURISDICTION: India
+
+YEAR: 1950
+
+AUTHORITY: Constituent Assembly of India
+
+SOURCE: Constitution of India
+
+SOURCE_TYPE: Primary Legal Text
+
+KEYWORDS: Supreme Court, special leave petition, appeal, judicial discretion
+
+CONTENT:
+
+Article 136 gives the Supreme Court discretionary power to grant special leave to appeal from judgments, decrees, determinations, sentences or orders made by courts or tribunals in India, subject to constitutional limitations.

@@ -1,0 +1,23 @@
+DOCUMENT_ID: CONST007
+
+TITLE: Constitution of India - Article 22: Protection Against Arrest and Detention
+
+DOCUMENT_TYPE: Constitution
+
+DOMAIN: Constitutional Law
+
+JURISDICTION: India
+
+YEAR: 1950
+
+AUTHORITY: Constituent Assembly of India
+
+SOURCE: Constitution of India
+
+SOURCE_TYPE: Primary Legal Text
+
+KEYWORDS: arrest, detention, lawyer, magistrate, preventive detention
+
+CONTENT:
+
+Article 22 provides constitutional safeguards against arrest and detention. A person arrested must be informed of the grounds of arrest and must be allowed to consult and be defended by a legal practitioner of choice. The arrested person must generally be produced before the nearest magistrate within twenty-four hours, excluding the time necessary for the journey.
