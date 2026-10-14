@@ -1,0 +1,129 @@
+DOCUMENT_ID: ACT034
+
+TITLE: Ancient Monuments and Archaeological Sites and Remains Act, 1958
+
+DOCUMENT_TYPE: Act
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+SOURCE: Indian-Laws Dataset
+
+DESCRIPTION:
+Indian legislation containing 25 legal sections.
+
+
+
+
+
+
+DOMAIN: Administrative and Regulatory Law
+
+SUBDOMAIN: Government Regulation
+
+SOURCE_TYPE: Legislative Legal Text
+
+KEYWORDS: ancient, monuments, archaeological, sites, remains, administrative and regulatory law, government regulation
+
+CONTENT:
+
+SECTION: 1
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 1.Short title, extent and commencement.- (1) This Act may be called the Ancient Monuments and Archaeological Sites and Remains Act, 1958. (2) It extends to the whole of India, but sections 22, 24, 25 and 26 shall not apply to the State of Jammu and Kashmir. (3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.
+
+SECTION: 10
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 10.Power to make order prohibiting contravention of agreement under section 6.- (1) If the Director-General apprehends that the owner or occupier of a protected monument intends to destroy, remove, alter, deface, imperil or misuse the monument or to build on or near the site thereof in contravention of the terms of an agreement under section 6, the Director-General may, after giving the owner or occupier an opportunity of making a representation in writing, make an order prohibiting any such contravention of the agreement: Providedthat no such opportunity may be given in any case where the Director-General, for reasons to be recorded, is satisfied that it is not expedient or practicable to do so. (2) Any person aggrieved by an order under this section may appeal to the Central Government within such time and in such manner as may be prescribed and the decision of the Central Government shall be final.
+
+SECTION: 11
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 11.Enforcement of agreements.- (1) If an owner or other person who is bound by an agreement for the maintenance of a monument under section 6 refuses or fails within such reasonable time as the Director-General may fix, to do any act which in the opinion of the Director-General is necessary for the maintenance of the monument, the Director-General may authorize any person to do any such act, and the owner or other person shall be liable to pay the expenses of doing any such act or such portion of the expenses as the owner may be liable to pay under the agreement. (2) If any dispute arises regarding the amount of expenses payable by the owner or other person under sub-section (1), it shall be referred to the Central Government whose decision shall be final.
+
+SECTION: 12
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 12.Purchasers at certain sales and persons claiming through owner bound by instrument executed by owner.- Every person who purchases, at a sale for arrears of land revenue or any other public demand, any land on which is situated a monument in respect of which any instrument has been executed by the owner for the time being under section 5 or section 6, and every person claiming any title to a monument from, through or under, an owner who executed any such instrument, shall be bound by such instrument.
+
+SECTION: 13
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 13.Acquisition of protected monuments.- If the Central Government apprehends that a protected monument is in anger of being destroyed, insured, misused, or allowed to fall into decay, it may acquire the protected monument under the provisions of the Land Acquisition Act, 1894 (1 of 1894), as if the maintenance of the protected monument were a public purpose within the meaning of that Act.
+
+SECTION: 14
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 14.Maintenance of certain protected monuments.- (1) The Central Government shall maintain every monument which has been acquired under section 13 or in respect of which any of the rights mentioned in section 5 have been acquired. (2) When the Director-General has assumed the guardianship of a monument under section 5, he shall, for the purpose, of maintaining such monument, have access to the monument at all reasonable times, by himself and by his agents, subordinates and workmen, for the purpose of inspecting the monument and for the purpose of bringing such materials and doing such acts as he may consider necessary or desirable for the maintenance thereof.
+
+SECTION: 15
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 15.Voluntary contributions.- The Director-General may receive voluntary contributions towards the cost of maintaining a protected monument and may give orders as to the management and application of any funds so received by him; Providedthat no contribution received under this section shall be applied to any purpose other than the purpose for which it was contributed.
+
+SECTION: 16
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 16.Protection of place of worship from misuse, pollution or desecration.- (1) A protected monument maintain by the Central Government under this Act which is a place of worship or shrine shall not be used for any purpose inconsistent with its character. (2) Where the Central Government has acquired a protected monument under section 13, or where the Director-General has purchased, or taken a lease or accepted a gift or bequest or assumed guardianship of, a protected monument under section 5, and such monument or any part the derives used for religious worship or observances by any community, the Collector hall make due provisions for the protection of such monument or part thereof, from pollution or desecration- (a) by prohibiting the entry therein, except in accordance with the conditions prescribed with the concurrence of the persons, if any, in religious charge of the said monument or part thereof, of any person not entitled so to enter by the religious usages of the community by which the monument or part thereof is used, or (b) by taking such other action as he may think necessary in this behalf.
+
+SECTION: 17
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 17.Relinquishment of Government rights in a monument .- With the sanction of the Central Government, the Director-General may,- (a) where rights have been acquired by the Director-General in respect of any monument under this Act by virtue of any sale, lease, gift or will, relinquish, by notification in the Official Gazette, the rights so acquired to the person who would for the time being be the owner of the monument if such rights had not been acquired; or (b) relinquish any guardianship of a monument which he has assumed under this Act.
+
+SECTION: 18
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 18 .Right of access to protected monuments.- Subject to any rules made under this Act, the public shall have a right of access to any protected monument.
+
+SECTION: 19
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 PROTECTED AREAS 19.Restrictions on enjoyment of property rights in protected areas .- (1) No person, including the owner or occupier of a protected area, shall construct any building within the protected area or carry on any mining quarrying, excavating, blasting or any operation of a like nature in such area, or utilize such area or any part thereof in any other manner without the permission of the Central Government: Providedthat nothing in this sub-section shall be deemed to prohibit the use of any such area or part thereof for purposes of cultivation if such cultivation does not involve the digging of not more than one foot of soil from the surface. (2) The Central Government may, by order, direct that any building constructed by any person within a protected area in contravention of the provisions of sub-section (1) shall be removed within a specified period and, if the person refuses or fails to comply with the order, the Collector may cause the building to be removed and the person shall be liable to pay the cost of such removal.
+
+SECTION: 2
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 2.Definitions.- In this Act unless the context otherwise requires-, (a) "ancient monuments" means any structure, erection or monument, or any tumulus or place of interment, or any cave, rock-sculpture, inscription or monolith, which is of historical, archaeological or artistic interest and which has been in existence for not less than one hundred years, and includes- ( i ) the remains of an ancient monument. (ii) the site of an ancient monument, (iii) such portion of land adjoining the site of an ancient monument as may be required for fencing or covering in or otherwise preserving such monument, and (iv) the means of access to, and convenient inspection of, an ancient monument; (b) "antiquity" includes- ( i ) any coin, sculpture , manuscript, epigraph, or other work of art or craftsmanship. (ii) any article, object or thing detached from a building or cave, (iii) any article, object or thing illustrative of science, art, crafts, literature, religion, customs, morals or politics in bygone ages, (iv) any article, object or thing of historical interest, and (v) any article, object or thing declared by the Central Government, by notification in the Official Gazette, to be an antiquity for the purposes of this Act. which has been in existence for not less than one hundred years; (c) "archaeological officer" means an officer of the Department of Archaeology of the Government of India not lower in rank than Assistant Superintendent of Archaeology; (d) "archaeological site and remains" means any area which contains or is reasonably believed to contain ruins or relics of historical or archaeological importance which have been in existence for not less than one hundred years, and includes- ( i ) such portion of land adjoining the area as may be required for fencing or covering in or otherwise preserving it, and (ii) the means of access to, and convenient inspection of, the area; (e) "Director-General" means the Director-General of Archaeology, and includes any officer authorized by the Central Government to perform the duties of the Director-General; (f) "maintain, with its grammatical variations and cognate expressions, includes the fencing, covering in, repairing, restoring and cleansing of a protected monument, and the doing of any act which may be necessary for the porpoise of preserving a protected monument or of securing convenient access thereto; (g) "owner" includes- ( i ) a joint owner invested with powers of management on behalf of himself and other joint owners and the successor-in-title of any such owner; and (ii) any manager or trustee exercising powers of management and the successor-in-office of any such manager or trustee; (h) "prescribed" means prescribed by rules made under this Act; ( i ) "protected area" means any archaeological site and remains which is declared to be of national importance by or under this Act; (j) "protected monument" means an ancient monument which is declared to be of national importance by or under this Act.
+
+SECTION: 20
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 20.Power to acquire protected area.- If the Central Government is of opinion that any protected area contains an ancient monument or antiquities of national interest and value, it may acquire such area under the provisions of the Land Acquisition Act, 1894 (1 of 1894), as if the acquisition were for a public purpose within the meaning of that Act.
+
+SECTION: 21
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 21.Excavations in protected areas.- An archaeological officer or an officer authorized by him in this behalf or any person holding a license granted in this behalf under this Act (hereinafter referred to as the licensee) may, after giving notice in writing to the Collector and the owner, enter upon and make excavations in any protected area.
+
+SECTION: 22
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 22.Excavations in areas other than protected areas .- Where an archaeological officer has reason to believe that any area not being a protected area contains ruins or relies of historical or archaeological importance, he or an officer authorized by him in this behalf may, after giving notice in writing to the Collector and the owner, enter upon and make excavations in the area.
+
+SECTION: 23
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 23 .Compulsory purchase of antiquities, etc., discovered during excavation operations.- (1) Where, as a result of any excavations made in any area under section 21 or section 22, any antiquities are discovered, the archaeological officer or the licensee, as the case may be, shall,- (a) as soon as practicable, examine such antiquities and submit a report to the Central Government in such manner and containing such particulars as may be prescribed; (b) at the conclusion of the excavation operations, give notice in writing to the owner of the land from which such antiquities have been discovered, of the nature of such antiquities. (2) Until an orders for the compulsory purchase of any such antiquities is made under sub-section (3), the archaeological officer or the licensee, as the case may be, shall keep them in such safe custody as he may deem fit. (3) On receipt of a report under sub-section (1), the Central Government may make an order for the compulsory purchase of any such antiquities at their market value. (4) When an order for the compulsory purchase of any antiquities is made under sub-section (3), such antiquities shall rest in the Central Government with effect from the date of the order.
+
+SECTION: 24
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 24.Excavations, etc., for archaeological purposes .- No State Government shall undertake or authorize any person to undertake any excavation or other like operation for archaeological purposes in any area which is not a protected area except with the previous approval of the Central Government and in accordance with such rules or directions, if any, as the Central Government may make or give in this behalf.
+
+SECTION: 25
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 PROTECTION OF ANTIQUITIES 25.Power of Central Government to control moving of antiquities.- (1) If the Central Government considers that any antiquities or class of antiquities ought not to be moved from the place where they are without the sanction of the Central Government, the Central Government may, by notification in the Official Gazette, direct that any such antiquity or any class of such antiquities shall not be moved except with the written permission of the Director-General. (2) Every application for permission under sub-section (1) Shall be in such form and contain such particulars as may be prescribed. (3) Any person aggrieved by an order refusing permission may appeal t the Central Government whose decision shall be final.
+
+SECTION: 26
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 26.Purchase of antiquities by Central Government.- (1) If the Central Government apprehends that any antiquity mentioned in a notification issued under sub-section (1) of section 25 is in danger of being destroyed, removed, injured, misused or allowed to fall into decay or is of opinion that, by reason of its historical or archaeological importance, it is desirable to preserve such antiquity in a public place, the Central Government may make an order for the compulsory purchase of such antiquity at its market value and the Collector shall thereupon give notice to the owner of the antiquity to be purchased. (2) Where a notice of compulsory purchase is issued under sub-section (1) in respect of any antiquity, such antiquity shall vest in the Central Government with effect from the date of the notice. (3) The power of compulsory purchase given by this section shall not extend to any image or symbol actually used for bona fide religious observations.
+
+SECTION: 27
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 PRINCIPLES OF COMPENSATION 27.Compensation for loss or damage.- Any owner or occupier of land who has sustained any loss or damage or any diminution of profits from the land by reason of any entry on, or excavations in, such land or the exercise of any other power conferred by this Act shall be paid compensation by the Central Government for such loss, damage or diminution of profits.
+
+SECTION: 28
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 28 .Assessment of market value or compensation.- (1) The market value of any property which the Central Government is empowered to purchase at such value under this Act or the compensation to be packed by the Central Government in respect of anything done under this Act shall, where any dispute arises in respect of such market value or compensation, be ascertained in the manner provided in sections, 3, 5, 8 to 34, 45 to 47, 51 and 52 of the Land Acquisition Act, 1894 (1 of 1894), so far as they can be made applicable: Providedthat, when making an enquiry under the said Land Acquisition Act, the Collector shall be assisted by two assessors, one of whom shall be a competent person nominated by the Central Government and one a person nominate by the owner, or, in case the owner fails to nominate an assessor within such reasonable time as may be fixed by the Collector in this behalf, by the Collector. (2) Notwithstanding anything contained in sub-section (1) or in the Land Acquisition Act.1894 (1 of 1894), in determining the market value of any antiquity in respect of which an order for compulsory purchase is made under sub-section (3) of section 23 or under quite by reason of its being of historical or archaeological importance shall not be taken into consideration.
+
+SECTION: 29
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 29.Delegation of powers.- The Central Government may, by notification in the Official Gazette , direct that any powers conferred on it by or under this Act shall, subject to such conditions as may be specified in the direction, be exercisable also by- (a) such officer or authority subordinate to the Central Government or (b) such State Government or such officer or authority subordinate to the State Government, as may be specified in the direction.
+
+SECTION: 3
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 ANCIENT MONUMENTS AND ARCHAEOLOGICAL SITES AND REMAINS OF NATIONAL IMPORTANCE 3.Certain ancient monuments, etc., deemed to be of national importance.- All ancient and historical monuments and all archaeological sites and remains which have been declared by the Ancient and Historical Monuments and Archaeological Sites and Remains (Declaration of National Importance) Act, 1951 (71 of 1951), or by section 126 of the States Reorganization Act, 1956 (37 of 1956), to be of national importance shall be deemed to be ancient and historical monuments or archaeological sites and remains declared to be of national importance for the purposes of this Act.
+
+SECTION: 30
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 30.Penalties.- (1) Whoever- ( i ) destroys, remove, injures, alters, defaces, imperil or misuses a protected monument, or (ii) being the owner or occupier of a protected monument, contravenes an order made under sub-section (1) of section 9 or under sub-section (1) of section 10, or (iii) removes from a protected monument any sculpture carving, image, bas-relief, inscription, or other like object, or (iv) does any act in contravention of sub-section (1) of section 19. shall be punishable with imprisonment which may extend to three shall be punishable with imprisonment which may extend to three months, or with fine which may extend to five thousand rupees, or with both. (2) Any person who moves any antiquity in contravention of a notification issued under sub-section (1) of section 25 shall be punishable with fine which may extend to five thousand rupees; and the court convicting a person of any such contravention may be order direct such person to restore the antiquity to the place from which it was moved.
+
+SECTION: 31
+
+Ancient Monuments and Archaeological Sites and Remains Act, 1958 31.Jurisdiction to try offences.- No court inferior to that of a presidency magistrate or a magistrate of the first class shall try any offence under this Act.

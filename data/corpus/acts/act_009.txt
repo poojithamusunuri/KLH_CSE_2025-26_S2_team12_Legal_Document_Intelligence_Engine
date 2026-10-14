@@ -1,0 +1,45 @@
+DOCUMENT_ID: ACT009
+
+TITLE: Administrative Tribunals (Amendment) Act, 1986
+
+DOCUMENT_TYPE: Act
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+SOURCE: Indian-Laws Dataset
+
+DESCRIPTION:
+Indian legislation containing 4 legal sections.
+
+
+
+
+
+
+DOMAIN: Administrative and Regulatory Law
+
+SUBDOMAIN: Government Regulation
+
+SOURCE_TYPE: Legislative Legal Text
+
+KEYWORDS: administrative, tribunals, administrative and regulatory law, government regulation
+
+CONTENT:
+
+SECTION: 1
+
+1. Short title and commencement.- (1) This Act may be called the Administrative Tribunals (Amendment) Act, 1986. (2) Save as otherwise provided in this Act, it shall be deemed to have come into force on the 22nd day of January, 1986.
+
+SECTION: 2
+
+24. Provisions as to existing Members of Central Administrative Tribunal.- Every person holding office as Chairman, Vice-Chairman or other Member of the Central Administrative Tribunal immediately before the commencement of this Act shall,- (a) if he possesses any of the qualifications specified for appointment as a Judicial Member under the principal Act, as amended by this Act, be deemed, on and from such commencement, to have been appointed as a Judicial Member of such Tribunal; and 3 (b) in any other case, be deemed, on and from such commencement, to have been appointed as an Administrative Member of such Tribunal.
+
+SECTION: 3
+
+25. Validation.- Anything done or any action taken (including any application admitted or orders passed) by the Central Administrative Tribunal or any of its Bench or Benches immediately before the commencement of this Act in the exercise or purported exercise of its jurisdiction, powers and authority conferred by or under the principal Act shall be deemed to have been validly done or taken as if the provisions of the principal Act, as amended by this Act had been in force at all material times and, accordingly, anything done or any action taken by the said Tribunal or any of its Bench or Benches shall not be called in question merely on the ground that- (a) the Bench or Benches of such Tribunal had not been properly constituted, or (b) the said Tribunal had no jurisdiction to adjudicate or try any dispute or complaint or to hear any appeals in relation to such dispute or complaint.
+
+SECTION: 4
+
+26. Repeal and saving.- (1) The Administrative Tribunals (Amendment) Ordinance, 1986 (1 of 1986) is hereby repealed. (2) Notwithstanding such repeal, anything done or any action taken under the principal Act, as amended by the said Ordinance, shall be deemed to have been done or taken under the principal Act, as amended by this Act.

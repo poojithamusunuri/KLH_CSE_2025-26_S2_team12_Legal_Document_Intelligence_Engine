@@ -1,0 +1,45 @@
+DOCUMENT_ID: ACT008
+
+TITLE: Additional Duties of Excise (Textiles and Textile Articles) Act, 1978
+
+DOCUMENT_TYPE: Act
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+SOURCE: Indian-Laws Dataset
+
+DESCRIPTION:
+Indian legislation containing 4 legal sections.
+
+
+
+
+
+
+DOMAIN: Tax and Revenue Law
+
+SUBDOMAIN: Taxation and Public Revenue
+
+SOURCE_TYPE: Legislative Legal Text
+
+KEYWORDS: additional, duties, excise, textiles, textile, articles, tax and revenue law, taxation and public revenue
+
+CONTENT:
+
+SECTION: 1
+
+1. Short title and commencement. (1) This Act may be called the Additional Duties of Excise (Textiles and Textile Articles) Act, 1978. (2) It shall be deemed to have come into force on the 4th day of October, 1978.
+
+SECTION: 2
+
+2. [Definitions.] Omitted by the Additional Duties of Excise (Textiles and Textile Articles) Amendment Act, 1985 (6 of 1986), s. 2 (w.e.f. 28-2-1986).
+
+SECTION: 3
+
+3. Levy and collection of additional duties of excise on certain textiles and textile articles. 1[(1) When goods of the description mentioned in the Schedule chargeable with a duty of excise under the Central Excises and Salt Act, 1944 (1 of 1944), read with any notification for the time being in force issued by the Central Government in relation to the duty so chargeable (not being a notification providing for any exemption for giving credit with respect to, or reduction of duty of excise under the said Act on such goods equal to, any duty of excise under the said Act, or the additional duty under section 3 of the Customs Tariff Act, 1975 (51 of 1975), already paid on the raw material used in the production or manufacture of such goods), are assessed to duty, there shall be levied and collected a duty of excise equal to 2[fifteen per cent.] of the total amount so chargeable on such goods.] (2) The duties of excise referred to in sub-section (1) in respect of the goods specified in the Schedule shall be in addition to the duties of excise chargeable on such goods under the Central Excises and Salt Act, 1944 (1 of 1944), or any other law for the time being in force and shall be levied for the purposes of the Union and the proceeds thereof shall not be distributed among the States. (3) The provisions of the Central Excises and Salt Act, 1944 (1 of 1944), and the rules made thereunder, including those relating to refunds and exemptions from duties, shall, so far as may be, apply in relation to the levy and collection of the duties of excise leviable under this section in respect of any goods as they apply in relation to the levy and collection of the duties of excise on such goods under that Act or those rules. 1. Subs. by Act 11 of 1983, s. 57, for sub-section (1) (w.e.f. 1-8-1983). 2. Subs. by Act 33 of 1996, s. 84, for "twenty per cent." (w.e.f. 28-9-1996).
+
+SECTION: 4
+
+4. Repeal and saving. (1) The Additional Duties of Excise (Textiles and Textile Articles) Ordinance, 1978 (4 of 1978), is hereby repealed. (2) Notwithstanding such repeal, anything done or any action taken under the Ordinance so repealed shall be deemed to have been done or taken under the corresponding provisions of this Act. 2

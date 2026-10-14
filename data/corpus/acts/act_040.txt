@@ -1,0 +1,129 @@
+DOCUMENT_ID: ACT040
+
+TITLE: Andhra Pradesh Reorganization Act, 2014
+
+DOCUMENT_TYPE: Act
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+SOURCE: Indian-Laws Dataset
+
+DESCRIPTION:
+Indian legislation containing 25 legal sections.
+
+
+
+
+
+
+DOMAIN: Administrative and Regulatory Law
+
+SUBDOMAIN: Government Regulation
+
+SOURCE_TYPE: Legislative Legal Text
+
+KEYWORDS: andhra, pradesh, reorganization, administrative and regulatory law, government regulation
+
+CONTENT:
+
+SECTION: 1
+
+The Andhra Pradesh reorganization Act, 2014 Part I Preliminary 1. Short title. This act may be called the Andhra Pradesh reorganization act, 2014.
+
+SECTION: 10
+
+The Andhra Pradesh reorganization Act, 2014 10. Amendment of First Schedule to Constitution. On and from the appointed day, in the First Schedule to the Constitution, under the heading "I. THE STATES’’,-- ( a ) in the paragraph relating to the territories of the State of Andhra Pradesh, after the words, brackets and figures "Second Schedule to the Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959", the following shall be inserted, namely:- "and the territories specified in section 3 of the Andhra Pradesh Reorganisation Act, 2014"; ( b ) after entry 28, the following entry shall be inserted, namely:- "29. Telangana: The territories specified in section 3 of the Andhra Pradesh Reorganisation Act, 2014.".
+
+SECTION: 100
+
+The Andhra Pradesh reorganization Act, 2014 100. Territorial extent of laws. The provisions of Part II shall not be deemed to have affected any change in the territories to which the Andhra Pradesh Land Reforms (Ceiling on Agricultural Holdings) Act, 1973 and any other law in force immediately before the appointed day extends or applies, and territorial references in any such law to the State of Andhra Pradesh shall, until otherwise provided by a competent Legislature or other competent authority be construed as meaning the territories within the existing State of Andhra Pradesh before the appointed day.
+
+SECTION: 101
+
+The Andhra Pradesh reorganization Act, 2014 101. Power to adapt laws. For the purpose of facilitating the application in relation to the State of Andhra Pradesh or the State of Telangana of any law made before the appointed day, the appropriate Government may, before the expiration of two years from that day, by order, make such adaptations and modifications of the law, whether by way of repeal or amendment, as may be necessary or expedient, and thereupon every such law shall have effect subject to the adaptations and modifications so made until altered, repealed or amended by a competent Legislature or other competent authority. Explanation .-- In this section, the expression "appropriate Government" means as respects any law relating to a matter enumerated in the Union List, the Central Government, and as respects any other law in its application to a State, the State Government.
+
+SECTION: 102
+
+The Andhra Pradesh reorganization Act, 2014 102. Power to construe laws. Notwithstanding that no provision or insufficient provision has been made under section 102 for the adaptation of a law made before the appointed day, any court, tribunal or authority, required or empowered to enforce such law may, for the purpose of facilitating its application in relation to the State of Andhra Pradesh or the State of Telangana, construe the law in such manner, without affecting the substance, as may be necessary or proper in regard to the matter before the court, tribunal or authority.
+
+SECTION: 103
+
+The Andhra Pradesh reorganization Act, 2014 103. Power to name authorities, etc., for exercising statutory functions. The Government of the State of Telangana, as respects the transferred territory may, by notification in the Official Gazette, specify the authority, officer or person who, on or after the appointed day, shall be competent to exercise such functions exercisable under any law in force on that day as may be mentioned in that notification and such law shall have effect accordingly.
+
+SECTION: 104
+
+The Andhra Pradesh reorganization Act, 2014 104. Legal proceedings. Where, immediately before the appointed day, the existing State of Andhra Pradesh is a party to any legal proceedings with respect to any property, rights or liabilities subject to apportionment between the States of Andhra Pradesh and Telangana under this Act, the State of Andhra Pradesh or the State of Telangana which succeeds to, or acquires a share in, that property or those rights or liabilities by virtue of any provision of this Act shall be deemed to be substituted for the existing State of Andhra Pradesh or added as a party to those proceedings, and the proceedings may continue accordingly.
+
+SECTION: 105
+
+The Andhra Pradesh reorganization Act, 2014 105. Transfer of pending proceedings. 1. Every proceeding pending immediately before the appointed day before a court (other than High Court), tribunal, authority or officer in any area which on that day falls within the State of Andhra Pradesh shall, if it is a proceeding relating exclusively to the territory, which as from that day are the territories of the State of Telangana, stand transferred to the corresponding court, tribunal, authority or officer of that State. 2. If any question arises as to whether any proceeding should stand transferred under sub-section ( 1 ) it shall be referred to the High Court at Hyderabad and the decision of that High Court shall be final. 3. In this section-- a. "proceeding" includes any suit, case or appeal; and b. "corresponding court, tribunal authority or officer" in the State of Telangana means-- i. the court, tribunal, authority or officer in which, or before whom, the proceeding would have laid if it had been instituted after the appointed day; or ii. in case of doubt, such court, tribunal, authority, or officer in that State, as may be determined after the appointed day by the Government of that State or the Central Government, as the case may be, or before the appointed day by the Government of the existing State of Andhra Pradesh to be the corresponding court, tribunal, authority or officer.
+
+SECTION: 106
+
+The Andhra Pradesh reorganization Act, 2014 106. Right of pleaders to practise in certain cases. Any person who, immediately before the appointed day, is enrolled as a pleader entitled to practise in any subordinate court in the existing State of Andhra Pradesh shall, for a period of one year from that day, continue to be entitled to practise in those courts, notwithstanding that the whole or any part of the territories within the jurisdiction of those courts has been transferred to the State of Telangana.
+
+SECTION: 107
+
+The Andhra Pradesh reorganization Act, 2014 107. Effect of provisions of the Act inconsistent with other laws. The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law.
+
+SECTION: 108
+
+The Andhra Pradesh reorganization Act, 2014 108. Power to remove difficulties. 1. If any difficulty arises in giving effect to the provisions of this Act, the President may, by order do anything not inconsistent with such provisions which appears to him to be necessary or expedient for the purpose of removing the difficulty: Provided that no such order shall be made after the expiry of a period of three years from the appointed day. 2. Every order made under this section shall be laid before each House of Parliament
+
+SECTION: 11
+
+The Andhra Pradesh reorganization Act, 2014 11. Saving powers of State Governments. Nothing in the foregoing provisions of this Part shall be deemed to affect the power of the Government of Andhra Pradesh or the Government of Telangana to alter, after the appointed day, the name, area or boundaries of any district or other territorial division in the State.
+
+SECTION: 12
+
+The Andhra Pradesh reorganization Act, 2014 Part III Representation in the Legislatures The Council of States 12. Amendment of Fourth Schedule to Constitution. On and from the appointed day, in the Fourth Schedule to the Constitution, in the Table,- a. in entry 1, for the figures "18", the figures "11" shall be substituted; b. entries 2 to 30 shall be renumbered as entries 3 to 31, respectively; c. after entry 1, the following entry shall be inserted, namely:- "2. Telangana .............................................. 7".
+
+SECTION: 13
+
+The Andhra Pradesh reorganization Act, 2014 13. Allocation of sitting members. 1. On and from the appointed day, eighteen sitting members of the Council of States representing the existing State of Andhra Pradesh shall be deemed to have been elected to fill the seats allotted to the States of Andhra Pradesh and Telangana, as specified in the First Schedule to this Act. 2. The term of office of such sitting members shall remain unaltered.
+
+SECTION: 14
+
+The Andhra Pradesh reorganization Act, 2014 The House of the People 14. Representation in House of the People. On and from the appointed day, there shall be allocated 25 seats to the successor State of Andhra Pradesh, and 17 seats to the successor State of Telangana, in the House of the People, and the First Schedule to the Representation of the People Act, 1950 shall be deemed to be amended accordingly.
+
+SECTION: 15
+
+The Andhra Pradesh reorganization Act, 2014 15. Delimitation of Parliamentary and Assembly Constituencies. 1. On and from the appointed day, the Delimitation of Parliamentary and Assembly Constituencies Order, 2008, shall stand amended as directed in the Second Schedule to this Act. 2. The Election Commission may conduct the elections to the House of the People and the Legislative Assemblies of the successor States of Andhra Pradesh and Telangana as per the allocation of seats specified in the Delimitation of Parliamentary and Assembly Constituencies Order, 2008 as amended by this Act.
+
+SECTION: 16
+
+The Andhra Pradesh reorganization Act, 2014 16. Provision as to sitting members. 1. Every sitting member of the House of the People representing a constituency which, on the appointed day by virtue of the provisions of section 14, stands allotted, with or without alteration of boundaries, to the successor States of Andhra Pradesh or Telangana, shall be deemed to have been elected to the House of the People by that constituency as so allotted. 2. The term of office of such sitting members shall remain unaltered.
+
+SECTION: 17
+
+The Andhra Pradesh reorganization Act, 2014 The Legislative Assembly 17. Provisions as to Legislative Assemblies. 1. Subject to the provisions of sub-section ( 2 ), the number of seats in the Legislative Assemblies of the States of Andhra Pradesh and Telangana, on and from the appointed day, shall be 175 and 119, respectively. 2. In the Second Schedule to the Representation of the People Act, 1950, under the heading "I. STATES":- a. for entry 1, the following entry shall be substituted, namely:- 1. Andhra Pradesh 294 39 15 175 29 7 a. b. entries 25 to 28 shall be renumbered as entries 26 to 29, respectively; c. after entry 24, the following entry shall be inserted, namely:- 25. Telangana - - - 119 19 1
+
+SECTION: 18
+
+The Andhra Pradesh reorganization Act, 2014 18. Representation of Anglo-Indian community. Notwithstanding anything in sub-section ( 1 ) the Governor of the State may nominate one member each to the Legislative Assemblies of the successor States to give representation to the Anglo-Indian community in accordance with article 333 of the Constitution.
+
+SECTION: 19
+
+The Andhra Pradesh reorganization Act, 2014 19. Allocation of sitting members. 1. Every sitting member of the Legislative Assembly of the existing State of Andhra Pradesh elected to fill a seat in that Assembly from a constituency which on the appointed day by virtue of the provisions of section 17 stands allotted, with or without alteration of boundaries, to the State of Telangana shall, on and from that day, cease to be a member of the Legislative Assembly of Andhra Pradesh and shall be deemed to have been elected to fill a seat in the Legislative Assembly of Telangana from that constituency as so allotted. 2. All other sitting members of the Legislative Assembly of the existing State of Andhra Pradesh shall continue to be members of the Legislative Assembly of that State and any such sitting member representing a constituency, the extent or the name of which are altered by virtue of the provisions of section 17, shall be deemed to have been elected to the Legislative Assembly of Andhra Pradesh by that constituency as so altered. 3. Notwithstanding anything contained in any other law for the time being in force, the Legislative Assemblies of Andhra Pradesh and Telangana shall be deemed to be duly constituted on the appointed day.
+
+SECTION: 2
+
+The Andhra Pradesh reorganization Act, 2014 2. Definitions. In this act, unless the context otherwise requires,- a. "appointed day" means the day which the central government may, by notification in the official gazette, appoint; b. "article" means an article of the constitution; c. "assembly constituency", "council constituency" and "parliamentary constituency" have the same meanings as in the representation of the people act, 1950; d. "Election Commission" means the Election Commission appointed by the President under article 324; e. "existing State of Andhra Pradesh" means the State of Andhra Pradesh as existing immediately before the appointed day; f. "law" includes any enactment, ordinance, regulation, order, bye-law, rule, scheme, notification or other instrument having, immediately before the appointed day, the force of law in the whole or in any part of the existing State of Andhra Pradesh; g. "notified order" means an order published in the Official Gazette; h. "population ratio", in relation to the States of Andhra Pradesh and Telangana, means the ratio of 58.32 : 41.68 as per 2011 Census; i. "sitting member", in relation to either House of Parliament or of the Legislature of the existing State of Andhra Pradesh, means a person who immediately before the appointed day, is a member of that House; j. "successor State", in relation to the existing State of Andhra Pradesh, means the State of Andhra Pradesh or the State of Telangana, as the case may be; k. "transferred territory" means the territory which on the appointed day is transferred from the existing State of Andhra Pradesh to the State of Telangana; l. "treasury" includes a sub-treasury; and m. any reference to a district, mandal, tehsil, taluk or other territorial division of the existing State of Andhra Pradesh shall be construed as a reference to the area comprised within that territorial division on the appointed day.
+
+SECTION: 20
+
+The Andhra Pradesh reorganization Act, 2014 20. Duration of Legislative Assemblies. The period of five years referred to in clause (1) of article 172 shall, in the case of the Legislative Assembly of the State of Andhra Pradesh and of the Legislative Assembly of the State of Telangana, be deemed to have commenced on the date on which it actually commenced in the case of the Legislative Assembly of the existing State of Andhra Pradesh.
+
+SECTION: 21
+
+The Andhra Pradesh reorganization Act, 2014 21. Speaker, Deputy Speaker and rules of procedure. 1. The person who immediately before the appointed day is the Speaker of the Legislative Assembly of the existing State of Andhra Pradesh shall continue to be the Speaker of that Assembly on and from that day and the members of that Assembly shall choose from amongst the members of the Assembly, a member to be the Deputy Speaker of that Assembly. 2. As soon as may be after the appointed day, the Deputy Speaker of the Legislative Assembly of the existing State of Andhra Pradesh shall become the Deputy Speaker of the Legislative Assembly of the successor State of Telangana and until the Speaker is chosen by that Assembly, the duties of the office of the Speaker shall be performed by the Deputy Speaker so appointed. 3. The rules of procedure and conduct of business of the Legislative Assembly of Andhra Pradesh as in force immediately before the appointed day shall, until rules are made under clause (1) of article 208, be the rules of procedure and conduct of business of the Legislative Assembly of Telangana, subject to such modifications and adaptations as may be made therein by the speaker thereof.
+
+SECTION: 22
+
+The Andhra Pradesh reorganization Act, 2014 The Legislative Councils 22. Legislative Council for successor States. 1. There shall be constituted a Legislative Council for each of the successor States consisting of not more than 50 members in the Legislative Council of Andhra Pradesh and 40 members in the Legislative Council of Telangana in accordance with the provisions contained in article 169 of the Constitution. 2. The existing Legislative Council of the State of Andhra Pradesh shall, on and from the appointed day, be deemed to have been constituted as two Legislative Councils of the successor States and the existing members shall be allotted to the Councils as specified in the Fourth Schedule.
+
+SECTION: 23
+
+The Andhra Pradesh reorganization Act, 2014 23. Provisions as To Legislative Councils. 1. On and from the appointed day, there shall be 50 seats in the Legislative Council of Andhra Pradesh and 40 seats in the Legislative Council of Telangana, respectively. 2. In the Representation of the People Act, 1950,-- i. in the Third Schedule,-- a. for the existing entry 1, the following entry shall be substituted, namely:-- 1. Andhra Pradesh 50 17 5 5 17 6 ( b ) after entry 7, the following entry shall be inserted, namely:- 7A. Telangana 40 14 3 3 14 6 ii. in the Fourth Schedule, after the heading "Tamil Nadu" and the entries relating thereunder, the following heading and the entries shall be inserted, namely:- "TELANGANA 1. Municipal Corporations. 2. Municipalities. 3. Nagar Panchayats. 4. Cantonment Boards. 5. Zila Praja Parishads. 6. Mandal Praja Parishads.".

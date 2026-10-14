@@ -1,0 +1,61 @@
+DOCUMENT_ID: ACT022
+
+TITLE: Air Corporations (Amendment) Act, 1962
+
+DOCUMENT_TYPE: Act
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+SOURCE: Indian-Laws Dataset
+
+DESCRIPTION:
+Indian legislation containing 8 legal sections.
+
+
+
+
+
+
+DOMAIN: Administrative and Regulatory Law
+
+SUBDOMAIN: Government Regulation
+
+SOURCE_TYPE: Legislative Legal Text
+
+KEYWORDS: corporations, administrative and regulatory law, government regulation
+
+CONTENT:
+
+SECTION: 1
+
+1. Short title.- This Act may be called the Air Corporations (Amendment) Act, 1962.
+
+SECTION: 2
+
+2. [Amendment of section 18.] Rep. by the Repealing and Amending Act, 1974 (56 of 1974), s. 2 and the First Schedule (w.e.f. 20-12-1974).
+
+SECTION: 3
+
+3. [Amendment of section 30.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 20-12-1974).
+
+SECTION: 4
+
+4. [Amendment of section 36.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 20-12-1974).
+
+SECTION: 5
+
+5. [Amendment of section 44.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 20-12-1974).
+
+SECTION: 6
+
+6. [Amendment of section 45.] Rep. by s. 2 and the First Schedule, ibid. (w.e.f. 20-12-1974).
+
+SECTION: 7
+
+7. Change of name of Act India International.- (1) With effect from such date as the Central Government may, by notification in the Official Gazette, specify, the Corporation established under section 3 of the principal Act known as "Air India International" shall be renamed as "Air India". (2) The change of name of "Air India International" by sub-section (1) shall not affect any rights and obligations of that Corporation or render defective any legal proceedings by or against it, and any legal proceedings which might have been continued or commenced by or against that Corporation by its former name may be continued or commenced by or against it, by its new name.
+
+SECTION: 8
+
+8. Dissolution of Air Transport Council.- As from the commencement of this Act, the Air Transport Council constituted under section 30 of the principal Act and in existence at such commencement shall stand dissolved.

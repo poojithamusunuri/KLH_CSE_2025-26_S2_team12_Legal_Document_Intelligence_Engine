@@ -1,0 +1,41 @@
+DOCUMENT_ID: ACT003
+
+TITLE: Absorbed Areas (Laws) Act, 1954
+
+DOCUMENT_TYPE: Act
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+SOURCE: Indian-Laws Dataset
+
+DESCRIPTION:
+Indian legislation containing 3 legal sections.
+
+
+
+
+
+
+DOMAIN: Administrative and Regulatory Law
+
+SUBDOMAIN: Government Regulation
+
+SOURCE_TYPE: Legislative Legal Text
+
+KEYWORDS: absorbed, areas, laws, administrative and regulatory law, government regulation
+
+CONTENT:
+
+SECTION: 1
+
+1. Short title.- This Act may be called the Absorbed Areas (Laws) Act, 1954.
+
+SECTION: 2
+
+2. Definitions.- In this Act, unless the context otherwise requires,- (a) "absorbing State", in relation to an absorbed area means a State specified in the heading of the Schedule in which that absorbed area is specified; (b) "absorbed area" means an area specified in column 2 of the Schedule.
+
+SECTION: 3
+
+3. Extension of laws.- The Acts specified in column 1 of each of the Schedules and all rules, notifications, orders, schemes, forms and bye-laws made thereunder, as in force in the absorbing State specified in the heading of that Schedule, are hereby extended to, and shall be in force in the absorbed areas specified in column 2 of that Schedule.
