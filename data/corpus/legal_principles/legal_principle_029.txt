@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE029
+
+TITLE: Principle Against Arbitrary State Action
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Constitutional Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+arbitrary action, state action, fairness, constitutional law
+
+DESCRIPTION:
+State action must be exercised according to law and constitutional
+principles. Arbitrary, irrational, or unfair exercises of public power
+may be subject to judicial scrutiny depending on the circumstances.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: against, arbitrary, state, action, constitutional law, constitutional principles

@@ -1,0 +1,30 @@
+DOCUMENT_ID: PRINCIPLE013
+
+TITLE: Doctrine of Eclipse
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Indian Constitutional Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+doctrine of eclipse, fundamental rights, pre constitution law
+
+DESCRIPTION:
+The Doctrine of Eclipse is associated with Indian constitutional law and
+explains how certain pre-Constitution laws inconsistent with fundamental
+rights may become inoperative to the extent of inconsistency rather than
+necessarily being void for all purposes.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: eclipse, constitutional law, constitutional principles

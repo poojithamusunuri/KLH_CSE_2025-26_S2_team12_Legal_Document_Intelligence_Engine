@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE021
+
+TITLE: Certiorari
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Constitutional Remedies
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+certiorari, judicial review, tribunal, court order
+
+DESCRIPTION:
+Certiorari is a judicial remedy through which a superior court may review
+and, where legally justified, quash an order or decision of a subordinate
+court, tribunal, or authority.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: certiorari, constitutional law, constitutional principles

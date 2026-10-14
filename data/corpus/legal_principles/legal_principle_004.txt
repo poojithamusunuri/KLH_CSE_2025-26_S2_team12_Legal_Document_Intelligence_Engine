@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE004
+
+TITLE: Nemo Judex in Causa Sua
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Natural Justice
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+nemo judex, bias, impartiality, conflict of interest
+
+DESCRIPTION:
+Nemo Judex in Causa Sua means that no person should be a judge in their
+own cause. The principle requires impartial decision-making and seeks to
+prevent bias or a reasonable apprehension of bias.
+
+
+
+DOMAIN: Administrative Law
+
+SUBDOMAIN: Administrative Justice
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: nemo, judex, causa, administrative law, administrative justice

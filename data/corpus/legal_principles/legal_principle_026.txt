@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE026
+
+TITLE: Principle of Due Process and Fair Procedure
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Constitutional Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+fair procedure, due process, liberty, constitutional rights
+
+DESCRIPTION:
+Fair procedure requires that exercises of legal power affecting important
+rights or interests follow procedures that are lawful, fair, and consistent
+with applicable constitutional and statutory protections.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: process, fair, procedure, constitutional law, constitutional principles

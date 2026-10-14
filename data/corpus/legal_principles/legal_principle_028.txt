@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE028
+
+TITLE: Doctrine of Ultra Vires
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Administrative Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+ultra vires, administrative authority, legal powers
+
+DESCRIPTION:
+The Doctrine of Ultra Vires means that an authority must act within the
+powers granted to it by law. Actions taken beyond lawful authority may be
+subject to judicial challenge.
+
+
+
+DOMAIN: Administrative Law
+
+SUBDOMAIN: Administrative Justice
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: ultra, vires, administrative law, administrative justice

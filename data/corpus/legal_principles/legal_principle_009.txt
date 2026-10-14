@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE009
+
+TITLE: Basic Structure Doctrine
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Indian Constitutional Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+basic structure, constitution amendment, parliament, constitutional law
+
+DESCRIPTION:
+The Basic Structure Doctrine is a principle of Indian constitutional law
+under which Parliament's power to amend the Constitution does not extend
+to destroying or damaging its basic structure.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: basic, structure, constitutional law, constitutional principles

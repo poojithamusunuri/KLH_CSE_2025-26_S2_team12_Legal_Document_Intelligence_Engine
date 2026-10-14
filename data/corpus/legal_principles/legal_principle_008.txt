@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE008
+
+TITLE: Equality Before Law
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Constitutional Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+equality, equal protection, constitution, discrimination
+
+DESCRIPTION:
+Equality Before Law means that persons are subject to the ordinary law of
+the land and are entitled to equal legal protection, subject to legitimate
+constitutional and legal classifications.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: equality, before, constitutional law, constitutional principles
