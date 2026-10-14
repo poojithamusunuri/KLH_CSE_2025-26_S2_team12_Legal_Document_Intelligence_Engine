@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE012
+
+TITLE: Doctrine of Severability
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Constitutional Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+severability, unconstitutional law, valid provisions
+
+DESCRIPTION:
+The Doctrine of Severability allows the valid parts of a law to remain
+operative when an unconstitutional part can be separated without defeating
+the legislative purpose, depending on the facts and statutory structure.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: severability, constitutional law, constitutional principles

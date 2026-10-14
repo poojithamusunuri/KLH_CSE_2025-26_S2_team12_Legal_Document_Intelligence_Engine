@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE018
+
+TITLE: Double Jeopardy
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Criminal Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+double jeopardy, prosecution, punishment, same offence
+
+DESCRIPTION:
+The principle against Double Jeopardy protects against being prosecuted
+or punished more than once for the same offence in circumstances covered
+by constitutional or statutory protections.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: double, jeopardy, constitutional law, constitutional principles

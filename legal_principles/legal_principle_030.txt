@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE030
+
+TITLE: Principle of Access to Justice
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Legal Rights
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+access to justice, legal remedy, courts, legal rights
+
+DESCRIPTION:
+Access to Justice refers to the ability of individuals to seek and obtain
+legal remedies through fair and effective legal institutions and procedures.
+It is an important element of the effective protection of legal rights.
+
+
+
+DOMAIN: General Jurisprudence
+
+SUBDOMAIN: General Legal Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: access, justice, general jurisprudence, general legal principles

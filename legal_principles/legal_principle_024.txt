@@ -1,0 +1,30 @@
+DOCUMENT_ID: PRINCIPLE024
+
+TITLE: Public Interest Litigation
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Indian Constitutional Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+PIL, public interest litigation, access to justice, constitutional law
+
+DESCRIPTION:
+Public Interest Litigation is a form of constitutional litigation in India
+that may allow courts to consider matters involving public interest,
+including situations where affected persons may face barriers to accessing
+justice.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: public, interest, litigation, constitutional law, constitutional principles

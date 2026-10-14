@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE003
+
+TITLE: Audi Alteram Partem
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Natural Justice
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+audi alteram partem, right to hearing, fair hearing, natural justice
+
+DESCRIPTION:
+Audi Alteram Partem means 'hear the other side'. A person affected by a
+decision should ordinarily be given a fair opportunity to know the case
+against them and respond before an adverse decision is made.
+
+
+
+DOMAIN: Administrative Law
+
+SUBDOMAIN: Administrative Justice
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: audi, alteram, partem, administrative law, administrative justice

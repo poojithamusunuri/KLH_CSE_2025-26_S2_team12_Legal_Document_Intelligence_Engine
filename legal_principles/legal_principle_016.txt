@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE016
+
+TITLE: Mens Rea
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Criminal Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+mens rea, criminal intent, knowledge, mental element
+
+DESCRIPTION:
+Mens Rea refers to the mental element required for many criminal offences,
+such as intention, knowledge, recklessness, or another legally specified
+state of mind.
+
+
+
+DOMAIN: Criminal Law
+
+SUBDOMAIN: Criminal Liability
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: mens, criminal law, criminal liability

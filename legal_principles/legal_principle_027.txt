@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE027
+
+TITLE: Principle of Judicial Independence
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Constitutional Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+judicial independence, judiciary, courts, constitution
+
+DESCRIPTION:
+Judicial Independence means that courts and judges should be able to decide
+cases independently, according to law and the Constitution, without improper
+external influence or pressure.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: judicial, independence, constitutional law, constitutional principles

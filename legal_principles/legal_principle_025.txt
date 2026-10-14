@@ -1,0 +1,30 @@
+DOCUMENT_ID: PRINCIPLE025
+
+TITLE: Reasonable Classification
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Constitutional Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+reasonable classification, equality, article 14, constitutional law
+
+DESCRIPTION:
+The principle of Reasonable Classification recognizes that equality does
+not necessarily require identical treatment in all circumstances.
+Classification must satisfy constitutional requirements and cannot be
+arbitrary.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: reasonable, classification, constitutional law, constitutional principles

@@ -1,0 +1,30 @@
+DOCUMENT_ID: PRINCIPLE011
+
+TITLE: Doctrine of Legitimate Expectation
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Administrative Law
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+legitimate expectation, public authority, administrative law
+
+DESCRIPTION:
+Legitimate Expectation may arise when a public authority, through a
+consistent practice or representation, creates an expectation that a
+particular procedure or benefit will be considered, subject to law and
+the limits of the doctrine.
+
+
+
+DOMAIN: Administrative Law
+
+SUBDOMAIN: Administrative Justice
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: legitimate, expectation, administrative law, administrative justice

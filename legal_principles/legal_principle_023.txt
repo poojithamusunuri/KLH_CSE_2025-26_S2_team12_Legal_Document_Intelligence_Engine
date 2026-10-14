@@ -1,0 +1,29 @@
+DOCUMENT_ID: PRINCIPLE023
+
+TITLE: Quo Warranto
+
+DOCUMENT_TYPE: Legal Principle
+
+CATEGORY: Constitutional Remedies
+
+JURISDICTION: India / General Legal Principle
+
+SOURCE: Curated Legal Knowledge Base
+
+KEYWORDS:
+quo warranto, public office, legal authority, writ
+
+DESCRIPTION:
+Quo Warranto is a remedy used to question the legal authority by which a
+person holds a public office, where the legal requirements for such
+proceedings are met.
+
+
+
+DOMAIN: Constitutional Law
+
+SUBDOMAIN: Constitutional Principles
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+KEYWORDS: warranto, constitutional law, constitutional principles
