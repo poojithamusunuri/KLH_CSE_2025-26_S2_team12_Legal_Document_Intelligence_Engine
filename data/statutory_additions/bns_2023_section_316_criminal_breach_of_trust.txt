@@ -1,0 +1,16 @@
+DOCUMENT_ID: STATUTE_BNS_2023_S316_1
+TITLE: Bharatiya Nyaya Sanhita, 2023 — Section 316(1) — Criminal Breach of Trust
+DOCUMENT_TYPE: Official Statutory Text Excerpt
+CATEGORY: Central Act
+DOMAIN: Criminal Law
+SUBDOMAIN: Property and Trust
+JURISDICTION: India
+YEAR: 2023
+AUTHORITY: Parliament of India
+SOURCE: India Code — official Central Acts repository
+SOURCE_URL: https://www.indiacode.nic.in/bitstream/123456789/20062/1/a202345.pdf
+SOURCE_TYPE: Official government statutory PDF; as on 6 October 2025
+KEYWORDS: criminal breach of trust, entrusted property, misappropriation, banker, agent, employer, BNS, section 316
+DESCRIPTION: Verbatim subsection 316(1). Penalty subsections and explanations are not included in this document; consult the official source for the complete section.
+CONTENT:
+316. Criminal breach of trust.—(1) Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits criminal breach of trust.
