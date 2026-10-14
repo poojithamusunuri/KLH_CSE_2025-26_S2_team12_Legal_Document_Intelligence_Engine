@@ -1,0 +1,197 @@
+===== tests.ScenarioEvaluation =====
+P01 | CLASSIFICATION_PASS | My employer has not paid my salary for three months.
+  issues=[Employment-related dispute] | confidence=MEDIUM
+  objects=[salary]
+  retrieval=UNADJUDICATED | candidates=146 | top=[JUDG051:RELATED_MATCH, JUDG013:RELATED_MATCH, ACT007:RELATED_MATCH, ...]
+
+P02 | CLASSIFICATION_PASS | The owner refuses to return my rental deposit.
+  issues=[Tenancy-related matter] | confidence=MEDIUM
+  objects=[deposit]
+  retrieval=UNADJUDICATED | candidates=165 | top=[JUDG026:RELATED_MATCH, JUDG119:RELATED_MATCH, JUDG007:RELATED_MATCH, ...]
+
+P03 | CLASSIFICATION_PARTIAL | Someone used my bank account without permission.
+  issues=[Banking / unauthorized transaction matter] | confidence=MEDIUM
+  objects=[account, bank]
+  retrieval=UNADJUDICATED | candidates=163 | top=[JUDG026:RELATED_MATCH, JUDG021:RELATED_MATCH, JUDG088:RELATED_MATCH, ...]
+
+P04 | CLASSIFICATION_PASS | The product I bought is defective and the seller refuses a refund.
+  issues=[Consumer / goods or services dispute] | confidence=MEDIUM
+  objects=[product]
+  retrieval=UNADJUDICATED | candidates=175 | top=[JUDG016:RELATED_MATCH, JUDG026:RELATED_MATCH, JUDG025:RELATED_MATCH, ...]
+
+P05 | CLASSIFICATION_PASS | I signed an agreement but the other party refused to perform its obligations.
+  issues=[Contract-related issue] | confidence=MEDIUM
+  objects=[agreement]
+  retrieval=UNADJUDICATED | candidates=163 | top=[JUDG002:RELATED_MATCH, JUDG004:RELATED_MATCH, JUDG007:RELATED_MATCH, ...]
+
+P06 | CLASSIFICATION_PASS | My landlord is not returning my security deposit after I vacated the house.
+  issues=[Tenancy-related matter] | confidence=MEDIUM
+  objects=[house, deposit]
+  retrieval=UNADJUDICATED | candidates=183 | top=[JUDG026:RELATED_MATCH, JUDG015:RELATED_MATCH, JUDG031:RELATED_MATCH, ...]
+
+P07 | CLASSIFICATION_PASS | A driver hit my car and caused injuries.
+  issues=[Motor vehicle / accident-related matter] | confidence=MEDIUM
+  objects=[vehicle]
+  retrieval=UNADJUDICATED | candidates=39 | top=[JUDG017:DIRECT_MATCH, JUDG061:DIRECT_MATCH, ACT021:RELATED_MATCH, ...]
+
+P08 | CLASSIFICATION_PASS | My spouse and I are disputing the inheritance of our parents' property.
+  issues=[Family / inheritance matter] | confidence=MEDIUM
+  objects=[property]
+  retrieval=UNADJUDICATED | candidates=168 | top=[JUDG035:RELATED_MATCH, ACT026:RELATED_MATCH, ACT028:RELATED_MATCH, ...]
+
+P09 | CLASSIFICATION_PASS | Someone copied my photo and used it on a website without permission.
+  issues=[Intellectual property matter] | confidence=MEDIUM
+  objects=[photo]
+  retrieval=UNADJUDICATED | candidates=52 | top=[COREACT010:RELATED_MATCH, JUDG026:RELATED_MATCH, JUDG080:RELATED_MATCH, ...]
+
+P10 | CLASSIFICATION_PASS | I borrowed money from a friend and they now refuse repayment.
+  issues=[Money / debt / recovery matter] | confidence=MEDIUM
+  objects=[money]
+  retrieval=UNADJUDICATED | candidates=157 | top=[JUDG103:DIRECT_MATCH, JUDG113:DIRECT_MATCH, JUDG139:DIRECT_MATCH, ...]
+
+P11 | CLASSIFICATION_PARTIAL | My boss has not paid my wages for two months.
+  issues=[Employment-related dispute] | confidence=MEDIUM
+  objects=[salary]
+  retrieval=UNADJUDICATED | candidates=146 | top=[JUDG051:RELATED_MATCH, JUDG013:RELATED_MATCH, ACT007:RELATED_MATCH, ...]
+
+P12 | CLASSIFICATION_PASS | The seller delivered a faulty product and refused a remedy.
+  issues=[Consumer / goods or services dispute] | confidence=MEDIUM
+  objects=[product]
+  retrieval=UNADJUDICATED | candidates=172 | top=[JUDG016:RELATED_MATCH, JUDG026:RELATED_MATCH, JUDG075:RELATED_MATCH, ...]
+
+P13 | CLASSIFICATION_PASS | The tenant has not paid rent for six months.
+  issues=[Tenancy-related matter] | confidence=MEDIUM
+  objects=[]
+  retrieval=UNADJUDICATED | candidates=151 | top=[JUDG062:DIRECT_MATCH, ACT026:DIRECT_MATCH, JUDG015:RELATED_MATCH, ...]
+
+P14 | CLASSIFICATION_PASS | The company dismissed me after I raised a complaint.
+  issues=[Employment-related dispute] | confidence=MEDIUM
+  objects=[]
+  retrieval=UNADJUDICATED | candidates=96 | top=[JUDG013:RELATED_MATCH, JUDG051:RELATED_MATCH, ACT010:RELATED_MATCH, ...]
+
+P15 | UNCERTAIN | I need help with a legal issue.
+  issues=[] | confidence=LOW
+  objects=[]
+  retrieval=UNADJUDICATED | candidates=0 | top=[]
+
+F01 | UNCERTAIN | I paid my friend back for a personal loan.
+  issues=[] | confidence=LOW
+  objects=[loan]
+  retrieval=UNADJUDICATED | candidates=120 | top=[JUDG087:RELATED_MATCH, JUDG092:RELATED_MATCH, JUDG095:RELATED_MATCH, ...]
+
+F02 | UNCERTAIN | Our team completed the project.
+  issues=[] | confidence=LOW
+  objects=[]
+  retrieval=UNADJUDICATED | candidates=45 | top=[JUDG041:RELATED_MATCH, JUDG082:RELATED_MATCH, JUDG084:RELATED_MATCH, ...]
+
+F03 | UNCERTAIN | The agreement was discussed during a family meeting.
+  issues=[] | confidence=LOW
+  objects=[agreement]
+  retrieval=UNADJUDICATED | candidates=162 | top=[ACT035:RELATED_MATCH, JUDG001:RELATED_MATCH, JUDG002:RELATED_MATCH, ...]
+
+F04 | UNCERTAIN | I work on a vehicle project.
+  issues=[] | confidence=LOW
+  objects=[vehicle, work]
+  retrieval=UNADJUDICATED | candidates=18 | top=[ACT021:RELATED_MATCH, JUDG016:RELATED_MATCH, JUDG017:RELATED_MATCH, ...]
+
+F05 | UNCERTAIN | The person paid the amount voluntarily.
+  issues=[] | confidence=LOW
+  objects=[amount]
+  retrieval=UNADJUDICATED | candidates=167 | top=[ACT012:RELATED_MATCH, ACT015:RELATED_MATCH, JUDG006:RELATED_MATCH, ...]
+
+F06 | UNCERTAIN | I have a problem with money.
+  issues=[] | confidence=LOW
+  objects=[money]
+  retrieval=UNADJUDICATED | candidates=114 | top=[ACT001:RELATED_MATCH, ACT005:RELATED_MATCH, ACT007:RELATED_MATCH, ...]
+
+F07 | UNCERTAIN | There is an issue with my agreement.
+  issues=[] | confidence=LOW
+  objects=[agreement]
+  retrieval=UNADJUDICATED | candidates=143 | top=[COREACT007:RELATED_MATCH, ACT001:RELATED_MATCH, ACT004:RELATED_MATCH, ...]
+
+F08 | UNCERTAIN | Someone is troubling me.
+  issues=[] | confidence=LOW
+  objects=[]
+  retrieval=UNADJUDICATED | candidates=0 | top=[]
+
+N01 | CLASSIFICATION_PARTIAL | My boss hasn't given me my wages.
+  issues=[Employment-related dispute] | confidence=MEDIUM
+  objects=[salary]
+  retrieval=UNADJUDICATED | candidates=146 | top=[JUDG051:RELATED_MATCH, JUDG013:RELATED_MATCH, ACT007:RELATED_MATCH, ...]
+
+N02 | CLASSIFICATION_PASS | The owner refuses to return my rental deposit.
+  issues=[Tenancy-related matter] | confidence=MEDIUM
+  objects=[deposit]
+  retrieval=UNADJUDICATED | candidates=165 | top=[JUDG026:RELATED_MATCH, JUDG119:RELATED_MATCH, JUDG007:RELATED_MATCH, ...]
+
+N03 | CLASSIFICATION_PARTIAL | Someone used my bank account without permission.
+  issues=[Banking / unauthorized transaction matter] | confidence=MEDIUM
+  objects=[account, bank]
+  retrieval=UNADJUDICATED | candidates=163 | top=[JUDG026:RELATED_MATCH, JUDG021:RELATED_MATCH, JUDG088:RELATED_MATCH, ...]
+
+N04 | CLASSIFICATION_PARTIAL | The product I bought is defective and the seller refuses a refund.
+  issues=[Consumer / goods or services dispute] | confidence=MEDIUM
+  objects=[product]
+  retrieval=UNADJUDICATED | candidates=175 | top=[JUDG016:RELATED_MATCH, JUDG026:RELATED_MATCH, JUDG025:RELATED_MATCH, ...]
+
+N05 | CLASSIFICATION_PARTIAL | We had a verbal deal and now they are not honoring it.
+  issues=[Contract-related issue] | confidence=MEDIUM
+  objects=[agreement]
+  retrieval=UNADJUDICATED | candidates=161 | top=[ACT034:RELATED_MATCH, ACT035:RELATED_MATCH, JUDG002:RELATED_MATCH, ...]
+
+N06 | CLASSIFICATION_PASS | My house is being occupied by someone claiming ownership.
+  issues=[Property / ownership dispute] | confidence=MEDIUM
+  objects=[house]
+  retrieval=UNADJUDICATED | candidates=187 | top=[JUDG135:DIRECT_MATCH, ACT026:DIRECT_MATCH, JUDG001:DIRECT_MATCH, ...]
+
+N07 | CLASSIFICATION_PASS | I was discharged from work without notice.
+  issues=[Employment-related dispute] | confidence=MEDIUM
+  objects=[work]
+  retrieval=UNADJUDICATED | candidates=96 | top=[JUDG013:RELATED_MATCH, JUDG051:RELATED_MATCH, ACT010:RELATED_MATCH, ...]
+
+N08 | CLASSIFICATION_PASS | The company withheld my salary after I quit.
+  issues=[Employment-related dispute] | confidence=MEDIUM
+  objects=[salary]
+  retrieval=UNADJUDICATED | candidates=146 | top=[JUDG051:RELATED_MATCH, JUDG013:RELATED_MATCH, ACT007:RELATED_MATCH, ...]
+
+N09 | CLASSIFICATION_PASS | I am not being paid for the work I did.
+  issues=[Employment-related dispute] | confidence=MEDIUM
+  objects=[work]
+  retrieval=UNADJUDICATED | candidates=114 | top=[JUDG051:RELATED_MATCH, ACT007:RELATED_MATCH, ACT015:RELATED_MATCH, ...]
+
+N10 | CLASSIFICATION_PASS | A person copied my logo and is using it commercially.
+  issues=[Intellectual property matter] | confidence=MEDIUM
+  objects=[logo]
+  retrieval=UNADJUDICATED | candidates=27 | top=[COREACT010:RELATED_MATCH, JUDG026:RELATED_MATCH, JUDG066:RELATED_MATCH, ...]
+
+N11 | CLASSIFICATION_PARTIAL | My college is harassing me and I want help.
+  issues=[] | confidence=LOW
+  objects=[college]
+  retrieval=UNADJUDICATED | candidates=10 | top=[JUDG080:RELATED_MATCH, ACT028:RELATED_MATCH, ACT030:RELATED_MATCH, ...]
+
+R01 | CLASSIFICATION_PASS | conspiracy
+  issues=[Criminal / conspiracy-related issue] | confidence=MEDIUM
+  objects=[conspiracy]
+  retrieval=UNADJUDICATED | candidates=3 | top=[JUDG070:RELATED_MATCH, JUDG075:RELATED_MATCH, JUDG084:RELATED_MATCH]
+
+R02 | CLASSIFICATION_PARTIAL | conspiraci
+  issues=[Criminal / conspiracy-related issue] | confidence=MEDIUM
+  objects=[]
+  retrieval=UNADJUDICATED | candidates=0 | top=[]
+
+R03 | CLASSIFICATION_PARTIAL | agreement between parties
+  issues=[] | confidence=LOW
+  objects=[agreement]
+  retrieval=UNADJUDICATED | candidates=143 | top=[COREACT007:RELATED_MATCH, ACT001:RELATED_MATCH, ACT004:RELATED_MATCH, ...]
+
+R04 | CLASSIFICATION_PARTIAL | ragging
+  issues=[Education / student issue] | confidence=MEDIUM
+  objects=[]
+  retrieval=UNADJUDICATED | candidates=0 | top=[]
+
+R05 | CLASSIFICATION_PARTIAL | Defamation online and someone published my photo.
+  issues=[] | confidence=LOW
+  objects=[photo]
+  retrieval=UNADJUDICATED | candidates=17 | top=[COREACT010:RELATED_MATCH, ACT001:RELATED_MATCH, ACT004:RELATED_MATCH, ...]
+
+SUMMARY | classificationPass=19 classificationPartial=11 classificationFail=0 uncertaintyHandled=9 uncertaintyMissed=0

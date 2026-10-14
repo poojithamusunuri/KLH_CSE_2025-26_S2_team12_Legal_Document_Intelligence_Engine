@@ -1,0 +1,14 @@
+LEGAL DOCUMENT INTELLIGENCE ENGINE — CURRENT SMOKE-TEST NOTES
+
+Corpus loaded: 242 text documents.
+Citation relationship data: 425 rows in results/judgment_act_relationships.csv.
+
+Validated behavior in this build:
+- `search warrant` returns JUDG047 (Bandi Kotayya...) as a legal-term result; the title explicitly records 10 August 1965.
+- `Police searched my house without showing me a warrant.` ranks warrant/criminal-procedure background first and reports that no direct answer was established.
+- `flow current` dispatches to citation links for the active displayed results.
+- `optimize N` respects the selected budget and does not count related/weak matches as integrated question coverage.
+- `schedule H` uses the current situation's dependency-aware task plan and respects the time budget.
+- `algorithms` runs standalone Miller–Rabin and randomized top-K demonstrations.
+
+See docs/BUILD_AND_TEST_REPORT.md for the complete automated test summary and known limitations.
