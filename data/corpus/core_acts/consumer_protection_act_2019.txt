@@ -1,0 +1,48 @@
+DOCUMENT_ID: COREACT006
+
+TITLE: Consumer Protection Act, 2019
+
+DOCUMENT_TYPE: Core Legal Act Knowledge
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+YEAR: 2019
+
+DOMAIN: Consumer Law
+
+SUBDOMAIN: Consumer Rights and Protection
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+SEARCH_KEYWORDS: consumer, consumer rights, defective goods, deficiency in service, unfair trade practice, product liability, consumer commission
+
+DESCRIPTION:
+
+Indian legislation providing consumer rights and mechanisms for addressing consumer disputes and unfair practices.
+
+CORE LEGAL CONCEPTS:
+
+- Consumer rights
+- Defective goods
+- Deficiency in services
+- Unfair trade practices
+- Product liability
+- Consumer commissions
+- Consumer complaints
+- E-commerce consumer protection
+
+IMPORTANT NOTE:
+
+This document is a structured legal knowledge summary created for
+information retrieval and educational purposes. It is not a substitute
+for the complete statutory text or professional legal advice.
+
+CONTENT:
+
+This document represents the major legal areas, concepts and topics
+covered by the legislation identified above. Retrieval systems may use
+this structured information to identify potentially relevant legal
+materials for a user's query.
+

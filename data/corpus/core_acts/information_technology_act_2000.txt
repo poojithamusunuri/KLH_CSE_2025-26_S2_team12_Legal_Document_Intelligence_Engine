@@ -1,0 +1,48 @@
+DOCUMENT_ID: COREACT004
+
+TITLE: Information Technology Act, 2000
+
+DOCUMENT_TYPE: Core Legal Act Knowledge
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+YEAR: 2000
+
+DOMAIN: Technology and Digital Law
+
+SUBDOMAIN: Cyber Law
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+SEARCH_KEYWORDS: cyber law, computer offence, electronic records, hacking, digital signature, cybercrime, intermediary
+
+DESCRIPTION:
+
+A foundational Indian law governing electronic records, digital transactions, cyber offences and related matters.
+
+CORE LEGAL CONCEPTS:
+
+- Legal recognition of electronic records
+- Digital and electronic signatures
+- Cyber offences
+- Unauthorized access
+- Computer-related offences
+- Intermediary liability
+- Electronic governance
+- Cyber security
+
+IMPORTANT NOTE:
+
+This document is a structured legal knowledge summary created for
+information retrieval and educational purposes. It is not a substitute
+for the complete statutory text or professional legal advice.
+
+CONTENT:
+
+This document represents the major legal areas, concepts and topics
+covered by the legislation identified above. Retrieval systems may use
+this structured information to identify potentially relevant legal
+materials for a user's query.
+

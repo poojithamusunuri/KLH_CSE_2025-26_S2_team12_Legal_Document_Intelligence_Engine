@@ -1,0 +1,48 @@
+DOCUMENT_ID: COREACT003
+
+TITLE: Bharatiya Sakshya Adhiniyam, 2023
+
+DOCUMENT_TYPE: Core Legal Act Knowledge
+
+JURISDICTION: India
+
+AUTHORITY: Parliament of India
+
+YEAR: 2023
+
+DOMAIN: Procedural Law
+
+SUBDOMAIN: Law of Evidence
+
+SOURCE_TYPE: Curated Legal Knowledge Summary
+
+SEARCH_KEYWORDS: evidence, proof, admissibility, witness, electronic records, documents, burden of proof
+
+DESCRIPTION:
+
+India's modern legal framework governing evidence, relevance, admissibility, proof and electronic records.
+
+CORE LEGAL CONCEPTS:
+
+- Relevancy of facts
+- Admissions and confessions
+- Documentary evidence
+- Electronic and digital records
+- Witness testimony
+- Burden of proof
+- Presumptions
+- Examination of witnesses
+
+IMPORTANT NOTE:
+
+This document is a structured legal knowledge summary created for
+information retrieval and educational purposes. It is not a substitute
+for the complete statutory text or professional legal advice.
+
+CONTENT:
+
+This document represents the major legal areas, concepts and topics
+covered by the legislation identified above. Retrieval systems may use
+this structured information to identify potentially relevant legal
+materials for a user's query.
+
