@@ -1,0 +1,426 @@
+judgment_id,act_id,act_title,act_status,reference_count,aliases_used,sections
+judgment_001,EXTACT021,"Bihar Land Disputes Resolution Act, 2009",external,3,"bihar land disputes resolution act; bihar land disputes resolution act, 2009",4
+judgment_001,EXTACT022,"Bihar Land Reforms Act, 1950",external,4,"bihar land reforms act; bihar land reforms act, 1950",
+judgment_001,EXTACT023,"Bihar Tenancy Act, 1885",external,9,"bihar tenancy act; bihar tenancy act, 1885",109
+judgment_001,EXTACT024,"Bihar Privileged Persons Homestead Tenancy Act, 1947",external,4,"bihar privileged persons homestead tenancy act; bihar privileged persons homestead tenancy act, 1947",
+judgment_001,EXTACT025,"Bihar Bhoodan Yagna Act, 1954",external,4,"bihar bhoodan yagna act; bihar bhoodan yagna act, 1954",
+judgment_001,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,4,"bihar land reforms (fixation of ceiling and acquisition of surplus land) act; bihar land reforms (fixation of ceiling and acquisition of surplus land) act, 1961",
+judgment_001,EXTACT027,"Bihar Consolidation of Holdings and Prevention of Fragmentation Act, 1956",external,4,"bihar consolidation of holdings and prevention of fragmentation act; bihar consolidation of holdings and prevention of fragmentation act, 1956",
+judgment_002,EXTACT005,"Transfer of Property Act, 1882",external,5,"transfer of property act; transfer of property act, 1882",53a
+judgment_002,EXTACT006,"Registration Act, 1908",external,3,"registration act; registration act which has been inserted into the said act by act; registration act, 1908",17(1a)
+judgment_003,EXTACT004,"Land Acquisition Act, 1894",external,4,land acquisition act,5a; 11a; 12(2); 17(4)
+judgment_004,EXTACT051,Major Ports Act,external,1,major ports act,
+judgment_004,EXTACT052,Rent Act,external,6,rent act,
+judgment_005,EXTACT002,"Companies Act, 1956",external,7,"companies act, 1956",
+judgment_005,EXTACT005,"Transfer of Property Act, 1882",external,1,transfer of property act,105
+judgment_005,EXTACT023,"Bihar Tenancy Act, 1885",external,9,"bihar tenancy act; india telegraph act, 1885",4
+judgment_006,EXTACT004,"Land Acquisition Act, 1894",external,2,land acquisition act,18; 23(ih)
+judgment_007,ACT011,"Administrators General Act, 1963",local,1,"specific relief act, 1963",3
+judgment_007,EXTACT005,"Transfer of Property Act, 1882",external,11,"tp act; transfer of property act; transfer of property act, 1882",5; 40; 53a; 54
+judgment_007,EXTACT006,"Registration Act, 1908",external,13,registration act; registration act 1908,17; 49; 17(1a)
+judgment_007,EXTACT007,"Limitation Act, 1963",external,1,"specific relief act, 1963",3
+judgment_007,EXTACT010,"Specific Relief Act, 1963",external,3,"specific relief act; specific relief act, 1963",3; 10
+judgment_008,COREACT007,"Indian Contract Act, 1872",local,1,"indian evidence act, 1872",41
+judgment_008,EXTACT008,"Indian Evidence Act, 1872",external,1,"indian evidence act, 1872",41
+judgment_008,EXTACT037,"Indian Succession Act, 1925",external,12,indian succession act,275; 295; 299; 384(2)
+judgment_009,COREACT007,"Indian Contract Act, 1872",local,2,contract act,15; 23
+judgment_009,EXTACT004,"Land Acquisition Act, 1894",external,16,"land acquisition act, 1894",4; 9; 11; 12; 18; 11(1)
+judgment_010,COREACT008,"Companies Act, 2013",local,6,"the act, 2013",24; 24(2)
+judgment_010,EXTACT004,"Land Acquisition Act, 1894",external,12,"land acquisition act; land acquisition act 1894; land acquisition act, 1894; old land acquisition act; said land acquisition act",4; 11; 11a; 31; 24(2)
+judgment_010,EXTACT009,"General Clauses Act, 1897",external,2,"general clauses act; general clauses act, 1897",6
+judgment_011,EXTACT004,"Land Acquisition Act, 1894",external,4,"land acquisition act; land acquisition act, 1894",4; 17; 17(4)
+judgment_012,ACT014,"Advocates Act, 1961",local,2,"i. t. act, 1961; income-tad act, 1961",9(1)(i); 195
+judgment_012,EXTACT003,"Income-tax Act, 1961",external,2,"i. t. act, 1961; income-tad act, 1961",9(1)(i); 195
+judgment_012,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,2,"i. t. act, 1961; income-tad act, 1961",9(1)(i); 195
+judgment_012,EXTACT059,"Sale of Goods Act, 1893",external,1,sale of goods act,61
+judgment_013,EXTACT042,"Factories Act, 1948",external,2,factories act,46; 151(6)
+judgment_014,ACT011,"Administrators General Act, 1963",local,1,"kerala general sales tax act, 1963",5a
+judgment_014,ACT036,"Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959",local,2,"bombay general sales tax act, 1959; madras general sales tax act, 1959",2; 5(v)
+judgment_014,EXTACT007,"Limitation Act, 1963",external,1,"kerala general sales tax act, 1963",5a
+judgment_014,EXTACT010,"Specific Relief Act, 1963",external,1,"kerala general sales tax act, 1963",5a
+judgment_014,EXTACT012,"Finance Act, 1969",external,1,"gujarat sales tax act, 1969",2(16)
+judgment_014,EXTACT024,"Bihar Privileged Persons Homestead Tenancy Act, 1947",external,1,"bihar sales tax act, 1947",2(g)
+judgment_014,EXTACT028,"Central Excises and Salt Act, 1944",external,19,"central excises and salt act, 1944",2(f)
+judgment_014,EXTACT029,"Bombay Sales Tax Act, 1959",external,4,"bombay general sales tax act, 1959; bombay sales tax act, 1959; madras general sales tax act, 1959",2; 5(v)
+judgment_014,EXTACT042,"Factories Act, 1948",external,1,"u.p. sales tax act, 1948",3a
+judgment_014,EXTACT043,"Employees' State Insurance Act, 1948",external,1,"u.p. sales tax act, 1948",3a
+judgment_014,EXTACT046,"Electricity (Supply) Act, 1948",external,1,"u.p. sales tax act, 1948",3a
+judgment_015,ACT014,"Advocates Act, 1961",local,1,"i.t. act, 1961",256(1)
+judgment_015,EXTACT003,"Income-tax Act, 1961",external,2,"cochin income-tax act; i.t. act, 1961",5(3)(iii); 256(1)
+judgment_015,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,1,"i.t. act, 1961",256(1)
+judgment_015,EXTACT050,"Indian Income-tax Act, 1922",external,1,cochin income-tax act,5(3)(iii)
+judgment_016,EXTACT028,"Central Excises and Salt Act, 1944",external,2,"central excises and salt act, 1944",4
+judgment_016,EXTACT039,"Government of India Act, 1935",external,1,"government of india act, 1935",
+judgment_017,EXTACT011,"Motor Vehicles Act, 1988",external,5,motor vehicles act,11; 110b
+judgment_017,EXTACT037,"Indian Succession Act, 1925",external,5,"indian succession act; indian succession act 1925; indian succession act, 1925",306
+judgment_017,EXTACT038,"Defence of India Act, 1939",external,3,"motor vehicles act 1939; motor vehicles act, 1939",110b
+judgment_018,ACT014,"Advocates Act, 1961",local,1,"income-tax act, 1961",271(1)
+judgment_018,ACT030,"All India Institute of Medical Sciences Act, 1956",local,2,"central sales tax act, 1956",10; 10(d)
+judgment_018,COREACT010,"Copyright Act, 1957",local,1,"andhra pradesh general sales tax act, 1957",30
+judgment_018,EXTACT002,"Companies Act, 1956",external,2,"central sales tax act, 1956",10; 10(d)
+judgment_018,EXTACT003,"Income-tax Act, 1961",external,19,"income-tax act; income-tax act, 1961",146; 28(1)(c); 256(2); 271(1); 271(1)(a)
+judgment_018,EXTACT007,"Limitation Act, 1963",external,2,limitation act,5
+judgment_018,EXTACT009,"General Clauses Act, 1897",external,3,"general clauses act, 1897",3(38)
+judgment_018,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,1,"income-tax act, 1961",271(1)
+judgment_018,EXTACT027,"Bihar Consolidation of Holdings and Prevention of Fragmentation Act, 1956",external,2,"central sales tax act, 1956",10; 10(d)
+judgment_018,EXTACT035,"Central Sales Tax Act, 1956",external,3,"central sales tax act; central sales tax act, 1956",10; 10(d)
+judgment_018,EXTACT050,"Indian Income-tax Act, 1922",external,8,"income-tax act; indian income-tax act, 1922",146; 28(1)(c); 256(2); 271(1)(a)
+judgment_018,EXTACT053,Wealth-tax Act,external,1,wealth-tax act,18
+judgment_018,EXTACT059,"Sale of Goods Act, 1893",external,1,"sale of goods act, 1893",
+judgment_019,ACT014,"Advocates Act, 1961",local,6,"i.t. act, 1961; income-tax act, 1961",195; 256(1)
+judgment_019,EXTACT003,"Income-tax Act, 1961",external,6,"i.t. act, 1961; income-tax act, 1961",195; 256(1)
+judgment_019,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,6,"i.t. act, 1961; income-tax act, 1961",195; 256(1)
+judgment_020,ACT014,"Advocates Act, 1961",local,3,"income-tax act, 1961",214; 256
+judgment_020,EXTACT003,"Income-tax Act, 1961",external,6,"income-tax act; income-tax act, 1961",214; 218; 221; 256
+judgment_020,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,3,"income-tax act, 1961",214; 256
+judgment_020,EXTACT050,"Indian Income-tax Act, 1922",external,3,income-tax act,214; 218; 221
+judgment_021,EXTACT003,"Income-tax Act, 1961",external,2,income-tax act,17(2)(iii); 192
+judgment_021,EXTACT050,"Indian Income-tax Act, 1922",external,2,income-tax act,17(2)(iii); 192
+judgment_022,ACT014,"Advocates Act, 1961",local,1,"income-tax act, 1961",64(1)(iii)
+judgment_022,EXTACT003,"Income-tax Act, 1961",external,4,"income-tax act; income-tax act, 1961",119; 138; 64(1)(iii)
+judgment_022,EXTACT012,"Finance Act, 1969",external,1,finance act,3
+judgment_022,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,1,"income-tax act, 1961",64(1)(iii)
+judgment_022,EXTACT028,"Central Excises and Salt Act, 1944",external,1,central excises and salt act,3
+judgment_022,EXTACT039,"Government of India Act, 1935",external,1,"government of india act, 1935",
+judgment_022,EXTACT050,"Indian Income-tax Act, 1922",external,6,"income-tax act; income-tax act, 1922; indian income-tax act, 1922",16; 23a; 119; 12(1b); 138
+judgment_023,EXTACT041,"Essential Commodities Act, 1955",external,6,essential commodities act,3; 3(2); 3(2)(d); 3(2)(f)
+judgment_024,ACT011,"Administrators General Act, 1963",local,1,"finance act, 1963",8
+judgment_024,ACT014,"Advocates Act, 1961",local,2,"income-tax act, 1961",139(1); 256(1)
+judgment_024,EXTACT003,"Income-tax Act, 1961",external,2,"income-tax act, 1961",139(1); 256(1)
+judgment_024,EXTACT007,"Limitation Act, 1963",external,1,"finance act, 1963",8
+judgment_024,EXTACT010,"Specific Relief Act, 1963",external,1,"finance act, 1963",8
+judgment_024,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,2,"income-tax act, 1961",139(1); 256(1)
+judgment_024,EXTACT050,"Indian Income-tax Act, 1922",external,3,"indian income-tax act, 1922",22; 22(1); 28(1)(a)
+judgment_025,ACT014,"Advocates Act, 1961",local,3,"income-tax act 1961; income-tax act, 1961",37(2b); 256(1)
+judgment_025,EXTACT003,"Income-tax Act, 1961",external,4,"income-tax act; income-tax act 1961; income-tax act, 1961",37(2b); 37(4); 256(1)
+judgment_025,EXTACT012,"Finance Act, 1969",external,1,finance act,6
+judgment_025,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,3,"income-tax act 1961; income-tax act, 1961",37(2b); 256(1)
+judgment_025,EXTACT050,"Indian Income-tax Act, 1922",external,4,"income-tax act; indian income-tax act, 1922; predecessor income-tax act, 1922",34; 10(2)(xv); 37(4)
+judgment_026,ACT002,"Abducted Persons (Recovery and Restoration) Continuance Act, 1955",local,1,"west bengal land reforms act, 1955",4b
+judgment_026,COREACT007,"Indian Contract Act, 1872",local,11,"contract act; indian contract act, 1872",23; 65
+judgment_026,EXTACT004,"Land Acquisition Act, 1894",external,1,"land acquisition act, 1894",4(1)
+judgment_026,EXTACT005,"Transfer of Property Act, 1882",external,34,"tp act; transfer of property act; transfer of property act, 1882",4; 5; 6; 7; 8; 38; 41; 42; 43; 53; 53a; 54; 55; 126
+judgment_026,EXTACT006,"Registration Act, 1908",external,35,"indian registration act, 1908; registration act; registration act, 1908",17; 23a; 32a; 35; 49(c); 60; 69; 71; 77; 87; 17(1)(b)
+judgment_026,EXTACT007,"Limitation Act, 1963",external,1,"limitation act, 1963",
+judgment_026,EXTACT008,"Indian Evidence Act, 1872",external,5,"evidence act; indian contract act, 1872; indian evidence act",23; 73
+judgment_026,EXTACT009,"General Clauses Act, 1897",external,1,"general clauses act, 1897",21
+judgment_026,EXTACT010,"Specific Relief Act, 1963",external,16,"specific relief act; specific relief act, 1963",13; 17; 31; 34; 39
+judgment_026,EXTACT040,"Stamp Act, 1899",external,5,"indian stamp act; indian stamp act, 1899; stamp act; stamp act, 1899",31; 35
+judgment_026,EXTACT041,"Essential Commodities Act, 1955",external,1,"west bengal land reforms act, 1955",4b
+judgment_027,COREACT007,"Indian Contract Act, 1872",local,8,contract act; indian contract act,1; 172; 176
+judgment_027,EXTACT005,"Transfer of Property Act, 1882",external,4,transfer of property act; transfer of property act clearly states that chapter viii of the act,60; 137; 69(3)
+judgment_027,EXTACT010,"Specific Relief Act, 1963",external,1,indian specific relief act,42
+judgment_027,EXTACT037,"Indian Succession Act, 1925",external,5,indian succession act; succession act,187; 211; 213
+judgment_027,EXTACT059,"Sale of Goods Act, 1893",external,1,sale of goods act,2(7)
+judgment_028,COREACT007,"Indian Contract Act, 1872",local,1,contract act,148
+judgment_029,ACT014,"Advocates Act, 1961",local,1,"income-tax act, 1961",115j
+judgment_029,ACT030,"All India Institute of Medical Sciences Act, 1956",local,1,"companies act, 1956",205
+judgment_029,EXTACT002,"Companies Act, 1956",external,6,"companies act; companies act, 1956",205; 205(2)
+judgment_029,EXTACT003,"Income-tax Act, 1961",external,1,"income-tax act, 1961",115j
+judgment_029,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,1,"income-tax act, 1961",115j
+judgment_029,EXTACT027,"Bihar Consolidation of Holdings and Prevention of Fragmentation Act, 1956",external,1,"companies act, 1956",205
+judgment_029,EXTACT035,"Central Sales Tax Act, 1956",external,1,"companies act, 1956",205
+judgment_030,EXTACT044,"Nawab Salar Jung Bahadur (Administration of Assets) Act, 1950",external,1,"nawab salar jung bahadur (administration of assets) act, 1950",
+judgment_031,ACT014,"Advocates Act, 1961",local,3,"i.t. act, 1961; income-tax act, 1961",54; 256(1)
+judgment_031,COREACT010,"Copyright Act, 1957",local,2,"w.t. act, 1957",5(1)(ivc)
+judgment_031,EXTACT003,"Income-tax Act, 1961",external,4,"i.t. act, 1961; income-tax act; income-tax act, 1961",54; 256(1)
+judgment_031,EXTACT004,"Land Acquisition Act, 1894",external,1,land acquisition act,18
+judgment_031,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,3,"i.t. act, 1961; income-tax act, 1961",54; 256(1)
+judgment_031,EXTACT050,"Indian Income-tax Act, 1922",external,1,income-tax act,54
+judgment_032,EXTACT003,"Income-tax Act, 1961",external,12,hyderabad income-tax act; income-tax act; indian income-tax act,3; 4; 14; 29; 34; 44; 63; 78; 81; 2(15); 46(1)
+judgment_032,EXTACT050,"Indian Income-tax Act, 1922",external,23,"hyderabad income-tax act; income-tax act; indian income-tax act; indian income-tax act, 1922",3; 4; 14; 29; 34; 44; 63; 78; 81; 148; 2(15); 46(1); 66(2)
+judgment_033,ACT030,"All India Institute of Medical Sciences Act, 1956",local,1,"companies act, 1956",208
+judgment_033,EXTACT002,"Companies Act, 1956",external,1,"companies act, 1956",208
+judgment_033,EXTACT027,"Bihar Consolidation of Holdings and Prevention of Fragmentation Act, 1956",external,1,"companies act, 1956",208
+judgment_033,EXTACT035,"Central Sales Tax Act, 1956",external,1,"companies act, 1956",208
+judgment_033,EXTACT050,"Indian Income-tax Act, 1922",external,1,"income-tax act, 1922",66(1)
+judgment_034,ACT028,"Aligarh Muslim University Act, 1920",local,2,university act,4(6); 44(3)
+judgment_035,EXTACT009,"General Clauses Act, 1897",external,1,general clauses act,3(56)
+judgment_035,EXTACT037,"Indian Succession Act, 1925",external,8,indian succession act; succession act,63; 63(a); 104; 119
+judgment_036,EXTACT050,"Indian Income-tax Act, 1922",external,1,"indian income-tax act, 1922",
+judgment_037,ACT036,"Andhra Pradesh and Madras (Alteration of Boundaries) Act, 1959",local,1,"hyderabad general sales tax act, 1959",22(2)
+judgment_037,COREACT007,"Indian Contract Act, 1872",local,5,contract act; indian contract act,72
+judgment_037,EXTACT028,"Central Excises and Salt Act, 1944",external,5,"central excise and salt act, 1944; central excises and salt act; central excises and salt act, 1944",4; 40
+judgment_037,EXTACT029,"Bombay Sales Tax Act, 1959",external,1,"hyderabad general sales tax act, 1959",22(2)
+judgment_038,ACT014,"Advocates Act, 1961",local,4,"income-tax act, 1961",37; 40(c); 256(1)
+judgment_038,EXTACT003,"Income-tax Act, 1961",external,7,"income-tax act; income-tax act, 1961",37; 40(c); 40a(7)(b)(i); 40a(8); 256(1)
+judgment_038,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,4,"income-tax act, 1961",37; 40(c); 256(1)
+judgment_038,EXTACT050,"Indian Income-tax Act, 1922",external,3,income-tax act,40(c); 40a(7)(b)(i); 40a(8)
+judgment_039,COREACT007,"Indian Contract Act, 1872",local,1,indian contract act,5
+judgment_040,ACT031,"All India Services Act, 1951",local,3,"act has to be examined. the state financial corporation act, 1951; state financial corporation act, 1951",29
+judgment_040,EXTACT005,"Transfer of Property Act, 1882",external,1,"transfer of property act, 1882",69
+judgment_041,ACT002,"Abducted Persons (Recovery and Restoration) Continuance Act, 1955",local,1,"commissions of inquiry act, 1955",3
+judgment_041,ACT032,"All-India Services Regulations (Indemnity) Act, 1975",local,1,"voluntary disclosure of income and wealth act, 1975",11
+judgment_041,EXTACT004,"Land Acquisition Act, 1894",external,1,land acquisition act,18
+judgment_041,EXTACT041,"Essential Commodities Act, 1955",external,1,"commissions of inquiry act, 1955",3
+judgment_041,EXTACT053,Wealth-tax Act,external,2,wealth-tax act,
+judgment_041,EXTACT056,Commissions of Enquiry Act,external,4,"commissions of enquiry act; commissions of enquiry act, 1952; commissions of inquiry act, 1952",3
+judgment_041,EXTACT057,Urban Ceiling Regulation Act,external,3,"urban land (ceiling and regulation) act, 1976",20(1); 20(1)(a)
+judgment_041,EXTACT058,Entertainment Tax Act,external,2,"entertainment tax act; entertainment tax act, 1939",
+judgment_042,EXTACT003,"Income-tax Act, 1961",external,3,income-tax act; income-tax act if an assessment were to be made under that act; indian income-tax act,2; 4(1)
+judgment_042,EXTACT039,"Government of India Act, 1935",external,2,"government of india act; government of india act, 1935",140; 213
+judgment_042,EXTACT040,"Stamp Act, 1899",external,1,"stamp act, 1899",
+judgment_042,EXTACT045,"Estate Duty Act, 1953",external,1,estate duty act,34
+judgment_042,EXTACT050,"Indian Income-tax Act, 1922",external,3,income-tax act; income-tax act if an assessment were to be made under that act; indian income-tax act,2; 4(1)
+judgment_043,EXTACT005,"Transfer of Property Act, 1882",external,4,transfer of property act,53a
+judgment_043,EXTACT006,"Registration Act, 1908",external,4,"indian registration act, 1908; registration act, 1908",
+judgment_044,ACT014,"Advocates Act, 1961",local,1,"income-tax act, 1961",150(1)
+judgment_044,EXTACT003,"Income-tax Act, 1961",external,2,"income-tax act, 1961",150(1)
+judgment_044,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,1,"income-tax act, 1961",150(1)
+judgment_045,EXTACT053,Wealth-tax Act,external,1,wealth-tax act,
+judgment_045,EXTACT054,Prevention of Corruption Act,external,1,prevention of corruption act,
+judgment_045,EXTACT055,Foreign Exchange Regulations Act,external,1,foreign exchange regulations act,
+judgment_045,EXTACT056,Commissions of Enquiry Act,external,2,commissions of enquiry act,3
+judgment_045,EXTACT057,Urban Ceiling Regulation Act,external,2,urban ceiling regulation act,
+judgment_045,EXTACT058,Entertainment Tax Act,external,1,entertainment tax act,
+judgment_046,ACT014,"Advocates Act, 1961",local,4,"i.t. act, 1961",2(3); 2(31); 32(1)(iii); 47(2)
+judgment_046,COREACT007,"Indian Contract Act, 1872",local,1,"indian contract act, 1872",182
+judgment_046,EXTACT003,"Income-tax Act, 1961",external,6,"i.t. act, 1961",2(3); 2(31); 32(1)(iii); 47(2)
+judgment_046,EXTACT008,"Indian Evidence Act, 1872",external,1,"indian contract act, 1872",182
+judgment_046,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,4,"i.t. act, 1961",2(3); 2(31); 32(1)(iii); 47(2)
+judgment_046,EXTACT050,"Indian Income-tax Act, 1922",external,3,"indian i.t. act, 1922",25a; 66; 10(2)(vii)
+judgment_046,EXTACT052,Rent Act,external,1,rent act,
+judgment_047,EXTACT055,Foreign Exchange Regulations Act,external,1,"foreign exchange regulation act, 1947",
+judgment_048,EXTACT002,"Companies Act, 1956",external,1,"companies act, 1956",
+judgment_048,EXTACT009,"General Clauses Act, 1897",external,2,andhra pradesh general clauses act; andhra pradesh general clauses act that where an act,8; 18
+judgment_048,EXTACT050,"Indian Income-tax Act, 1922",external,1,"income-tax act, 1922",16(3)(a)
+judgment_049,ACT030,"All India Institute of Medical Sciences Act, 1956",local,4,"companies act, 1956; new act by excluding the provisions of the indian companies act, 1956",2(7); 129; 536(2)
+judgment_049,EXTACT002,"Companies Act, 1956",external,28,"companies act; companies act, 1956; indian companies act, 1956; new act by excluding the provisions of the indian companies act, 1956",2(7); 129; 41(2); 477; 536; 537; 441(2); 456(2); 536(2)
+judgment_049,EXTACT027,"Bihar Consolidation of Holdings and Prevention of Fragmentation Act, 1956",external,4,"companies act, 1956; new act by excluding the provisions of the indian companies act, 1956",2(7); 129; 536(2)
+judgment_049,EXTACT035,"Central Sales Tax Act, 1956",external,4,"companies act, 1956; new act by excluding the provisions of the indian companies act, 1956",2(7); 129; 536(2)
+judgment_049,EXTACT049,"Indian Partnership Act, 1932",external,9,"co-operative societies act, 1932; madras co-operative societies act, 1932; societies act, 1932",51; 61
+judgment_050,EXTACT012,"Finance Act, 1969",external,1,finance act,3
+judgment_050,EXTACT035,"Central Sales Tax Act, 1956",external,6,central sales tax act,14; 15
+judgment_050,EXTACT059,"Sale of Goods Act, 1893",external,1,sale of goods act,4
+judgment_051,ACT011,"Administrators General Act, 1963",local,8,"limitation act, 1963",4; 5; 29; 29(2)
+judgment_051,EXTACT007,"Limitation Act, 1963",external,40,"indian limitation act, 1963; limitation act; limitation act to the filing of appeals under the act; limitation act, 1963",4; 5; 14; 29; 14(2); 29(2)
+judgment_051,EXTACT010,"Specific Relief Act, 1963",external,8,"limitation act, 1963",4; 5; 29; 29(2)
+judgment_051,EXTACT011,"Motor Vehicles Act, 1988",external,1,motor vehicles act,58
+judgment_051,EXTACT024,"Bihar Privileged Persons Homestead Tenancy Act, 1947",external,7,"industrial disputes act, 1947",7; 33c(2)
+judgment_051,EXTACT036,"Payment of Wages Act, 1936",external,1,"payment of wages act, 1936",
+judgment_051,EXTACT038,"Defence of India Act, 1939",external,1,"motor vehicles act, 1939",58
+judgment_051,EXTACT043,"Employees' State Insurance Act, 1948",external,1,"employees state insurance act, 1948",
+judgment_052,COREACT007,"Indian Contract Act, 1872",local,4,contract act; indian contract act,16; 16(2)(a); 16(3)
+judgment_052,EXTACT005,"Transfer of Property Act, 1882",external,1,"transfer of property act, 1882",
+judgment_052,EXTACT006,"Registration Act, 1908",external,1,registration act,17
+judgment_052,EXTACT007,"Limitation Act, 1963",external,1,"limitation act, 1963",
+judgment_052,EXTACT008,"Indian Evidence Act, 1872",external,15,evidence act,56; 57; 68; 92; 111
+judgment_053,COREACT010,"Copyright Act, 1957",local,1,"mysore sales tax act, 1957",22(4)
+judgment_053,EXTACT003,"Income-tax Act, 1961",external,4,act are analogous to the powers of the appellate tribunal under the income-tax act; income-tax act,66; 21(4); 33(4)
+judgment_053,EXTACT029,"Bombay Sales Tax Act, 1959",external,1,sales tax act,21
+judgment_053,EXTACT035,"Central Sales Tax Act, 1956",external,1,sales tax act,21
+judgment_053,EXTACT042,"Factories Act, 1948",external,1,"u.p. sales tax act, 1948",9
+judgment_053,EXTACT043,"Employees' State Insurance Act, 1948",external,1,"u.p. sales tax act, 1948",9
+judgment_053,EXTACT046,"Electricity (Supply) Act, 1948",external,1,"u.p. sales tax act, 1948",9
+judgment_053,EXTACT050,"Indian Income-tax Act, 1922",external,5,"act are analogous to the powers of the appellate tribunal under the income-tax act; income-tax act; income-tax act, 1922",33; 66; 21(4); 33(4)
+judgment_054,ACT037,"Andhra Pradesh and Mysore (Transfer of Territory) Act, 1968",local,1,"treatment of offenders act, 1968",18
+judgment_054,EXTACT001,"Negotiable Instruments Act, 1881",external,3,negotiable instruments act,138
+judgment_055,EXTACT037,"Indian Succession Act, 1925",external,2,indian succession act,69; 311
+judgment_055,EXTACT049,"Indian Partnership Act, 1932",external,1,indian partnership act,4
+judgment_056,COREACT007,"Indian Contract Act, 1872",local,38,contract act; indian contract act,70
+judgment_056,EXTACT001,"Negotiable Instruments Act, 1881",external,8,negotiable instruments act; negotiable instruments act 1881,4; 13
+judgment_056,EXTACT005,"Transfer of Property Act, 1882",external,1,transfer of property act,53a
+judgment_056,EXTACT006,"Registration Act, 1908",external,2,indian registration act; registration act,49
+judgment_056,EXTACT008,"Indian Evidence Act, 1872",external,53,evidence act; indian evidence act,63; 91
+judgment_056,EXTACT039,"Government of India Act, 1935",external,8,government of india act,175; 175(3)
+judgment_056,EXTACT040,"Stamp Act, 1899",external,56,indian stamp act; stamp act,29; 35; 36; 2(14)
+judgment_057,ACT031,"All India Services Act, 1951",local,3,"sfc act, 1951; state financial corporation act, 1951; state financial corporations act, 1951",29
+judgment_057,ACT037,"Andhra Pradesh and Mysore (Transfer of Territory) Act, 1968",local,1,"kerala revenue recovery act, 1968",71
+judgment_057,EXTACT007,"Limitation Act, 1963",external,1,"limitation act, 1963",
+judgment_058,EXTACT006,"Registration Act, 1908",external,1,registration act,40
+judgment_059,COREACT007,"Indian Contract Act, 1872",local,4,contract act,23; 230
+judgment_059,EXTACT005,"Transfer of Property Act, 1882",external,1,transfer of property act,44
+judgment_059,EXTACT010,"Specific Relief Act, 1963",external,1,specific relief act,43
+judgment_060,ACT028,"Aligarh Muslim University Act, 1920",local,1,"provincial insolvency act, 1920",28(2)
+judgment_060,EXTACT005,"Transfer of Property Act, 1882",external,3,transfer of property act,58(f)
+judgment_060,EXTACT006,"Registration Act, 1908",external,1,"registration act, 1908",17
+judgment_060,EXTACT048,"Usurious Loans Act, 1918",external,1,"usurious loans act, 1918",
+judgment_061,ACT024,"Air Force Act, 1950",local,1,administration of evacuee property act 1950,27
+judgment_061,ACT026,"Ajmer Tenancy and Land Records Act, 1950",local,1,administration of evacuee property act 1950,27
+judgment_061,EXTACT003,"Income-tax Act, 1961",external,2,indian income tax act,66
+judgment_061,EXTACT007,"Limitation Act, 1963",external,1,"limitation act, 1963",
+judgment_061,EXTACT008,"Indian Evidence Act, 1872",external,1,indian evidence act was inserted in the statute book by act,113a
+judgment_061,EXTACT009,"General Clauses Act, 1897",external,4,"general clauses act; general clauses act, 1897",6; 6(e)
+judgment_061,EXTACT011,"Motor Vehicles Act, 1988",external,4,"motor vehicles act; motor vehicles act, 1988; new motor vehicles act",110a; 166; 217(1)
+judgment_061,EXTACT022,"Bihar Land Reforms Act, 1950",external,1,administration of evacuee property act 1950,27
+judgment_061,EXTACT024,"Bihar Privileged Persons Homestead Tenancy Act, 1947",external,1,"central provinces and berar sales tax act, 1947",22(1)
+judgment_061,EXTACT034,"Benami Transactions (Prohibition) Act, 1988",external,2,"benami transactions (prohibition) act, 1988; motor vehicles act, 1988",4(1); 217(1)
+judgment_061,EXTACT044,"Nawab Salar Jung Bahadur (Administration of Assets) Act, 1950",external,1,administration of evacuee property act 1950,27
+judgment_061,EXTACT045,"Estate Duty Act, 1953",external,1,"andhra state act, 1953",28
+judgment_061,EXTACT050,"Indian Income-tax Act, 1922",external,2,indian income tax act,66
+judgment_061,EXTACT052,Rent Act,external,1,rent act,
+judgment_062,EXTACT005,"Transfer of Property Act, 1882",external,3,"transfer of property act; transfer of property act, 1882",53a
+judgment_062,EXTACT006,"Registration Act, 1908",external,15,"indian registration act; indian registration act. the act; registration act; registration act, 1908",3; 2(7); 49; 17(1)(d)
+judgment_062,EXTACT010,"Specific Relief Act, 1963",external,3,specific relief act,12; 27a
+judgment_063,ACT014,"Advocates Act, 1961",local,1,"income-tax act, 1961",273a
+judgment_063,EXTACT003,"Income-tax Act, 1961",external,4,"income-tax act; income-tax act, 1961",137; 273a; 273a(1)
+judgment_063,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,1,"income-tax act, 1961",273a
+judgment_063,EXTACT050,"Indian Income-tax Act, 1922",external,3,income-tax act,137; 273a; 273a(1)
+judgment_063,EXTACT053,Wealth-tax Act,external,4,wealth-tax act,18(2a)
+judgment_064,ACT014,"Advocates Act, 1961",local,1,"income-tax act, 1961",256(1)
+judgment_064,EXTACT003,"Income-tax Act, 1961",external,1,"income-tax act, 1961",256(1)
+judgment_064,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,1,"income-tax act, 1961",256(1)
+judgment_065,ACT014,"Advocates Act, 1961",local,1,"income tax act, 1961",131(1a)
+judgment_065,EXTACT003,"Income-tax Act, 1961",external,1,"income tax act, 1961",131(1a)
+judgment_065,EXTACT013,"SEBI Act, 1992",external,1,"securities and exchange board of india act, 1992",
+judgment_065,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,1,"income tax act, 1961",131(1a)
+judgment_065,EXTACT030,"Foreign Exchange Management Act, 1999",external,2,"foreign exchange management act, 1999",37
+judgment_065,EXTACT050,"Indian Income-tax Act, 1922",external,5,"income tax act, 1922; income-tax act, 1922",66; 66(1); 131(1a)
+judgment_066,EXTACT031,"Press and Registration of Books Act, 1867",external,4,"press and registration of books act, 1867",
+judgment_067,ACT030,"All India Institute of Medical Sciences Act, 1956",local,1,"central sales tax act, 1956",8(2)(b)
+judgment_067,EXTACT002,"Companies Act, 1956",external,1,"central sales tax act, 1956",8(2)(b)
+judgment_067,EXTACT027,"Bihar Consolidation of Holdings and Prevention of Fragmentation Act, 1956",external,1,"central sales tax act, 1956",8(2)(b)
+judgment_067,EXTACT035,"Central Sales Tax Act, 1956",external,2,"central sales tax act; central sales tax act, 1956",8(2)(b)
+judgment_067,EXTACT041,"Essential Commodities Act, 1955",external,1,"essential commodities act, 1955",
+judgment_067,EXTACT058,Entertainment Tax Act,external,1,entertainment tax act,
+judgment_068,EXTACT039,"Government of India Act, 1935",external,1,government of india act,292
+judgment_069,EXTACT045,"Estate Duty Act, 1953",external,2,estate duty act,34(1)(c); 53(3)
+judgment_070,EXTACT028,"Central Excises and Salt Act, 1944",external,3,central excises and salt act,9; 40(2)
+judgment_071,EXTACT004,"Land Acquisition Act, 1894",external,4,"land acquisition act, 1894",18; 12(2); 18(2)
+judgment_072,COREACT007,"Indian Contract Act, 1872",local,1,"indian contract act, 1872",25
+judgment_072,EXTACT002,"Companies Act, 1956",external,1,"companies act, 1956",
+judgment_072,EXTACT007,"Limitation Act, 1963",external,24,"limitation act; limitation act, 1963; limitation act. it cannot be disputed that kerala rent act is a special act",5; 14; 29; 29(2)
+judgment_072,EXTACT008,"Indian Evidence Act, 1872",external,1,"indian contract act, 1872",25
+judgment_072,EXTACT009,"General Clauses Act, 1897",external,1,general clauses act,6
+judgment_072,EXTACT013,"SEBI Act, 1992",external,1,securities and exchange board of india act 1992,
+judgment_072,EXTACT030,"Foreign Exchange Management Act, 1999",external,1,"foreign exchange management act, 1999",
+judgment_072,EXTACT032,"Recovery of Debts Due to Banks and Financial Institutions Act, 1993",external,4,"recovery of debts due to banks and financial institutions act, 1993",
+judgment_072,EXTACT052,Rent Act,external,10,"kerala rent act, 1965; limitation act. it cannot be disputed that kerala rent act is a special act; rent act",18; 29(2)
+judgment_073,EXTACT005,"Transfer of Property Act, 1882",external,9,transfer of property act,58(d); 101; 111; 111(f); 111(g); 117
+judgment_074,EXTACT003,"Income-tax Act, 1961",external,2,income-tax act,52(1); 256(1)
+judgment_074,EXTACT050,"Indian Income-tax Act, 1922",external,2,income-tax act,52(1); 256(1)
+judgment_075,COREACT007,"Indian Contract Act, 1872",local,5,contract act; indian contract act,192; 194; 220
+judgment_076,EXTACT046,"Electricity (Supply) Act, 1948",external,1,"electricity (supply) act, 1948",49
+judgment_076,EXTACT047,"Indian Electricity Act, 1910",external,5,"indian electricity act, 1910",24
+judgment_077,ACT014,"Advocates Act, 1961",local,2,"income-tax act, 1961",37(1); 37(3)
+judgment_077,EXTACT003,"Income-tax Act, 1961",external,2,"income-tax act, 1961",37(1); 37(3)
+judgment_077,EXTACT012,"Finance Act, 1969",external,7,"finance act; finance act, 1969",2; 2(6)(c)
+judgment_077,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,2,"income-tax act, 1961",37(1); 37(3)
+judgment_078,EXTACT005,"Transfer of Property Act, 1882",external,1,"indian trusts act, 1882",82
+judgment_078,EXTACT008,"Indian Evidence Act, 1872",external,2,evidence act,91; 92
+judgment_079,EXTACT004,"Land Acquisition Act, 1894",external,6,"land acquisition act; land acquisition act 1894; land acquisition act, 1894",23(1); 23(2)
+judgment_080,ACT006,"Acquisition of Certain Area at Ayodhya Act, 1993",local,1,"recovery of debts due to banks and financial institutions act, 1993",22
+judgment_080,ACT014,"Advocates Act, 1961",local,1,"income-tax act, 1961",131
+judgment_080,ACT030,"All India Institute of Medical Sciences Act, 1956",local,2,"companies act, 1956",397; 399
+judgment_080,EXTACT002,"Companies Act, 1956",external,10,"companies act; companies act, 1956",10f; 397; 399; 402; 405
+judgment_080,EXTACT003,"Income-tax Act, 1961",external,4,"income-tax act; income-tax act, 1961",131; 252; 66(1)
+judgment_080,EXTACT008,"Indian Evidence Act, 1872",external,15,evidence act; indian evidence act,34; 59; 61; 63; 65; 101; 102; 114; 114(g)
+judgment_080,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,1,"income-tax act, 1961",131
+judgment_080,EXTACT027,"Bihar Consolidation of Holdings and Prevention of Fragmentation Act, 1956",external,2,"companies act, 1956",397; 399
+judgment_080,EXTACT032,"Recovery of Debts Due to Banks and Financial Institutions Act, 1993",external,1,"recovery of debts due to banks and financial institutions act, 1993",22
+judgment_080,EXTACT035,"Central Sales Tax Act, 1956",external,2,"companies act, 1956",397; 399
+judgment_080,EXTACT042,"Factories Act, 1948",external,1,"english act, 1948",210
+judgment_080,EXTACT043,"Employees' State Insurance Act, 1948",external,1,"english act, 1948",210
+judgment_080,EXTACT046,"Electricity (Supply) Act, 1948",external,1,"english act, 1948",210
+judgment_080,EXTACT050,"Indian Income-tax Act, 1922",external,5,"income-tax act; indian income-tax act, 1922",131; 252; 33a(2); 66(1)
+judgment_081,EXTACT048,"Usurious Loans Act, 1918",external,4,"usurious loans act; usurious loans act as amended by the madras amending act; usurious loans act, 1918",3; 3(1)
+judgment_082,ACT008,"Additional Duties of Excise (Textiles and Textile Articles) Act, 1978",local,1,"interest act, 1978",4(2)(a)
+judgment_082,EXTACT033,"Interest Act, 1978",external,3,"interest act, 1978",4(2)(a)
+judgment_083,EXTACT004,"Land Acquisition Act, 1894",external,5,"u. k. finance act, 1894; u.k. finance act, 1894",1; 7(1); 7(3); 7(5)
+judgment_083,EXTACT005,"Transfer of Property Act, 1882",external,1,transfer of property act,100
+judgment_083,EXTACT045,"Estate Duty Act, 1953",external,13,"estate duty act; estate duty act, 1953",44; 48; 53; 36(1); 74(1)
+judgment_083,EXTACT053,Wealth-tax Act,external,11,wealth-tax act,2(m); 7(1)
+judgment_084,EXTACT038,"Defence of India Act, 1939",external,1,"defence of india act, 1939",
+judgment_085,COREACT007,"Indian Contract Act, 1872",local,4,contract act,23
+judgment_086,EXTACT059,"Sale of Goods Act, 1893",external,3,"indian sale of goods act; sale of goods act; sale of goods act, 1893",25; 2(14)
+judgment_087,EXTACT001,"Negotiable Instruments Act, 1881",external,24,"n. i. act, 1881; negotiable instrument act, 1881; negotiable instruments act; negotiable instruments act, 1881; ni act",46; 87; 118; 138; 139
+judgment_087,EXTACT002,"Companies Act, 1956",external,1,"companies act, 1956",
+judgment_088,EXTACT001,"Negotiable Instruments Act, 1881",external,17,"negotiable instrument act; negotiable instrument act, 1881; negotiable instruments act; negotiable instruments act, 1881",18; 138
+judgment_088,EXTACT054,Prevention of Corruption Act,external,2,prevention of corruption act,
+judgment_089,EXTACT001,"Negotiable Instruments Act, 1881",external,22,n.i. act; negotiable instrument act; negotiable instruments act; ni act,20; 87; 118; 138
+judgment_090,EXTACT001,"Negotiable Instruments Act, 1881",external,21,n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,138; 139
+judgment_091,EXTACT001,"Negotiable Instruments Act, 1881",external,16,n.i act; n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,138; 139
+judgment_092,EXTACT001,"Negotiable Instruments Act, 1881",external,21,negotiable instruments act 1881; ni act,87; 138; 139; 145(2)
+judgment_093,EXTACT001,"Negotiable Instruments Act, 1881",external,19,n.i. act; negotiable instrument act; ni act,43; 138; 139
+judgment_093,EXTACT008,"Indian Evidence Act, 1872",external,1,evidence act,3
+judgment_094,EXTACT001,"Negotiable Instruments Act, 1881",external,19,n.i act; n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,138; 139; 145(2)
+judgment_095,EXTACT001,"Negotiable Instruments Act, 1881",external,14,negotiable instrument act 1881; ni act,87; 138; 139
+judgment_095,EXTACT008,"Indian Evidence Act, 1872",external,3,"evidence act, 1872; indian evidence act, 1872",
+judgment_095,EXTACT009,"General Clauses Act, 1897",external,2,"general clauses act; general clauses act, 1897",27
+judgment_096,EXTACT001,"Negotiable Instruments Act, 1881",external,17,negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,87; 138; 139
+judgment_097,EXTACT001,"Negotiable Instruments Act, 1881",external,17,n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,138; 145(2)
+judgment_098,EXTACT001,"Negotiable Instruments Act, 1881",external,16,negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,87; 138; 139; 145(2)
+judgment_098,EXTACT008,"Indian Evidence Act, 1872",external,5,"evidence act, 1872; indian evidence act, 1872",
+judgment_099,EXTACT001,"Negotiable Instruments Act, 1881",external,16,"n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; negotiable instruments act, 1881; ni act",138; 139
+judgment_100,EXTACT001,"Negotiable Instruments Act, 1881",external,20,"negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; negotiable instruments act, 1881; ni act",46; 87; 118(b); 138; 139
+judgment_101,EXTACT001,"Negotiable Instruments Act, 1881",external,19,n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,20; 138; 139
+judgment_102,EXTACT001,"Negotiable Instruments Act, 1881",external,19,n.i. act; negotiable instrument act 1881; negotiable instruments act; ni act,138; 139; 141; 145(2)
+judgment_103,EXTACT001,"Negotiable Instruments Act, 1881",external,15,negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,138; 139; 145(2)
+judgment_104,EXTACT001,"Negotiable Instruments Act, 1881",external,20,"negotiable instrument act; negotiable instrument act 1881; negotiable instrument act, 1881; negotiable instruments act; negotiable instruments act, 1881; ni act",46; 87; 118(b); 138; 139
+judgment_105,EXTACT001,"Negotiable Instruments Act, 1881",external,15,"n.i. act; negotiable instruments act; negotiable instruments act, 1881; ni act",138; 139
+judgment_105,EXTACT008,"Indian Evidence Act, 1872",external,1,evidence act,114
+judgment_106,EXTACT001,"Negotiable Instruments Act, 1881",external,15,"negotiable instruments act; negotiable instruments act, 1881; ni act",118; 118(a); 138; 139
+judgment_107,EXTACT001,"Negotiable Instruments Act, 1881",external,17,"negotiable instruments act; negotiable instruments act, 1881; ni act",20; 53; 138; 139; 142
+judgment_108,EXTACT001,"Negotiable Instruments Act, 1881",external,19,"negotiable instruments act; negotiable instruments act, 1881; ni act",138
+judgment_109,EXTACT001,"Negotiable Instruments Act, 1881",external,15,n.i. act; negotiable instrument act; negotiable instruments act; ni act,138
+judgment_109,EXTACT002,"Companies Act, 1956",external,1,"companies act, 1956",
+judgment_110,COREACT007,"Indian Contract Act, 1872",local,1,indian contract act,23
+judgment_110,EXTACT001,"Negotiable Instruments Act, 1881",external,18,"negotiable instruments act; negotiable instruments act, 1881; ni act",118; 118(a); 138; 139
+judgment_111,EXTACT001,"Negotiable Instruments Act, 1881",external,19,negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,87; 138; 139; 145(2)
+judgment_112,EXTACT001,"Negotiable Instruments Act, 1881",external,20,"n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; negotiable instruments act, 1881; ni act",138; 139
+judgment_113,EXTACT001,"Negotiable Instruments Act, 1881",external,16,negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,138; 139
+judgment_114,EXTACT001,"Negotiable Instruments Act, 1881",external,14,"n.i act; n.i. act; negotiable instrument act; negotiable instrument act, 1881; negotiable instruments act; ni act",118(a); 138; 139
+judgment_114,EXTACT009,"General Clauses Act, 1897",external,1,general clauses act,27
+judgment_115,EXTACT001,"Negotiable Instruments Act, 1881",external,14,"n.i. act; negotiable instruments act; negotiable instruments act, 1881; ni act",138; 139
+judgment_115,EXTACT008,"Indian Evidence Act, 1872",external,1,evidence act,114
+judgment_116,EXTACT001,"Negotiable Instruments Act, 1881",external,16,negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,87; 138; 139
+judgment_117,EXTACT001,"Negotiable Instruments Act, 1881",external,22,negotiable instrument act 1881; ni act,138; 139; 145(2)
+judgment_118,EXTACT001,"Negotiable Instruments Act, 1881",external,20,negotiable instruments act; ni act,138; 138(c)
+judgment_119,EXTACT001,"Negotiable Instruments Act, 1881",external,19,"n.i act; n.i. act; negotiable instruments act; negotiable instruments act, 1881; ni act",138; 139
+judgment_120,EXTACT001,"Negotiable Instruments Act, 1881",external,25,ni act,141
+judgment_121,EXTACT001,"Negotiable Instruments Act, 1881",external,11,negotiable instrument act; ni act,138; 139
+judgment_122,EXTACT001,"Negotiable Instruments Act, 1881",external,13,ni act,
+judgment_122,EXTACT003,"Income-tax Act, 1961",external,1,"income tax act, 1961",
+judgment_123,EXTACT001,"Negotiable Instruments Act, 1881",external,14,n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,138; 139
+judgment_124,EXTACT001,"Negotiable Instruments Act, 1881",external,14,negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,138; 139
+judgment_125,EXTACT001,"Negotiable Instruments Act, 1881",external,13,ni act,
+judgment_126,EXTACT001,"Negotiable Instruments Act, 1881",external,23,n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,138; 139
+judgment_127,ACT030,"All India Institute of Medical Sciences Act, 1956",local,1,"companies act, 1956",560
+judgment_127,EXTACT002,"Companies Act, 1956",external,2,"companies act, 1956",560
+judgment_127,EXTACT013,"SEBI Act, 1992",external,8,"sebi act; sebi act 1992; sebi act, 1992",27; 12(1b)
+judgment_127,EXTACT027,"Bihar Consolidation of Holdings and Prevention of Fragmentation Act, 1956",external,1,"companies act, 1956",560
+judgment_127,EXTACT035,"Central Sales Tax Act, 1956",external,1,"companies act, 1956",560
+judgment_128,EXTACT001,"Negotiable Instruments Act, 1881",external,16,n.i act; n.i. act; negotiable instrument act; ni act,138
+judgment_128,EXTACT009,"General Clauses Act, 1897",external,1,general clauses act,27
+judgment_129,EXTACT001,"Negotiable Instruments Act, 1881",external,17,"n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; negotiable instruments act, 1881; ni act",138; 139
+judgment_130,EXTACT001,"Negotiable Instruments Act, 1881",external,16,"n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; negotiable instruments act, 1881; ni act",138; 139
+judgment_131,EXTACT001,"Negotiable Instruments Act, 1881",external,17,"n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; negotiable instruments act, 1881; ni act",87; 138; 139
+judgment_132,EXTACT001,"Negotiable Instruments Act, 1881",external,17,negotiable instrument act 1881; ni act,87; 138; 139
+judgment_133,EXTACT001,"Negotiable Instruments Act, 1881",external,28,"n.i. act; negotiable instruments act; negotiable instruments act, 1881; ni act",138; 139
+judgment_133,EXTACT008,"Indian Evidence Act, 1872",external,2,indian evidence act,65b
+judgment_134,EXTACT001,"Negotiable Instruments Act, 1881",external,18,negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,138; 139
+judgment_135,EXTACT034,"Benami Transactions (Prohibition) Act, 1988",external,1,"benami transactions (prohibition) act, 1988",
+judgment_136,EXTACT001,"Negotiable Instruments Act, 1881",external,12,negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; ni act,138; 139
+judgment_137,EXTACT001,"Negotiable Instruments Act, 1881",external,19,negotiable instruments act; negotiable instruments act 1881; ni act,87; 138; 139
+judgment_138,EXTACT001,"Negotiable Instruments Act, 1881",external,14,n.i act; negotiable instrument act; negotiable instruments act; ni act,138
+judgment_139,ACT014,"Advocates Act, 1961",local,1,"income-tax act, 1961",269(ss)
+judgment_139,COREACT007,"Indian Contract Act, 1872",local,1,"indian evidence act, 1872",154
+judgment_139,EXTACT001,"Negotiable Instruments Act, 1881",external,13,"negotiable instruments act; negotiable instruments act, 1881",118(a); 138; 139
+judgment_139,EXTACT003,"Income-tax Act, 1961",external,2,"income tax act, 1961; income-tax act, 1961",269(ss)
+judgment_139,EXTACT008,"Indian Evidence Act, 1872",external,1,"indian evidence act, 1872",154
+judgment_139,EXTACT026,"Bihar Land Reforms (Fixation of Ceiling and Acquisition of Surplus Land) Act, 1961",external,1,"income-tax act, 1961",269(ss)
+judgment_140,EXTACT001,"Negotiable Instruments Act, 1881",external,15,ni act,
+judgment_141,ACT022,"Air Corporations (Amendment) Act, 1962",local,1,"customs act, 1962",108
+judgment_141,EXTACT001,"Negotiable Instruments Act, 1881",external,11,"negotiable instruments act, 1881; ni act",138
+judgment_141,EXTACT008,"Indian Evidence Act, 1872",external,1,evidence act,114
+judgment_142,EXTACT001,"Negotiable Instruments Act, 1881",external,12,"negotiable instruments act; negotiable instruments act, 1881; ni act",138; 145(ii)
+judgment_143,EXTACT001,"Negotiable Instruments Act, 1881",external,7,negotiable instrument act; ni act,138; 142
+judgment_144,EXTACT001,"Negotiable Instruments Act, 1881",external,19,ni act,
+judgment_144,EXTACT003,"Income-tax Act, 1961",external,1,income tax act 1961,
+judgment_144,EXTACT008,"Indian Evidence Act, 1872",external,2,evidence act 1872; indian evidence act 1872,
+judgment_145,COREACT007,"Indian Contract Act, 1872",local,1,"evidence act, 1872",4
+judgment_145,EXTACT001,"Negotiable Instruments Act, 1881",external,11,"negotiable instrument act; negotiable instruments act; negotiable instruments act, 1881; ni act",138; 142
+judgment_145,EXTACT008,"Indian Evidence Act, 1872",external,1,"evidence act, 1872",4
+judgment_146,EXTACT001,"Negotiable Instruments Act, 1881",external,12,"negotiable instrument act; negotiable instrument act 1881; negotiable instrument act, 1881; ni act",87; 138; 139
+judgment_146,EXTACT008,"Indian Evidence Act, 1872",external,1,evidence act,114
+judgment_146,EXTACT009,"General Clauses Act, 1897",external,1,general clauses act,27
+judgment_147,EXTACT001,"Negotiable Instruments Act, 1881",external,22,"n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; negotiable instruments act, 1881; ni act",87; 118; 138; 139
+judgment_147,EXTACT008,"Indian Evidence Act, 1872",external,1,evidence act,114
+judgment_148,EXTACT001,"Negotiable Instruments Act, 1881",external,14,"n.i. act; negotiable instrument act; negotiable instrument act 1881; negotiable instruments act; negotiable instruments act, 1881; ni act",138; 139
+judgment_148,EXTACT008,"Indian Evidence Act, 1872",external,1,evidence act,114
+judgment_149,EXTACT001,"Negotiable Instruments Act, 1881",external,14,"negotiable instruments act; negotiable instruments act, 1881; ni act",138; 139
+judgment_149,EXTACT008,"Indian Evidence Act, 1872",external,1,evidence act,114
+judgment_149,EXTACT009,"General Clauses Act, 1897",external,1,general clauses act,27
+judgment_150,COREACT004,"Information Technology Act, 2000",local,1,information technology act 2000,
+judgment_150,EXTACT001,"Negotiable Instruments Act, 1881",external,18,n.i. act; negotiable instrument act,138; 139
+judgment_150,EXTACT008,"Indian Evidence Act, 1872",external,1,indian evidence act,3
