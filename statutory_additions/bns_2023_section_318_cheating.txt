@@ -1,0 +1,18 @@
+DOCUMENT_ID: STATUTE_BNS_2023_S318
+TITLE: Bharatiya Nyaya Sanhita, 2023 — Section 318 — Cheating
+DOCUMENT_TYPE: Official Statutory Text Excerpt
+CATEGORY: Central Act
+DOMAIN: Criminal Law
+SUBDOMAIN: Fraud and Deception
+JURISDICTION: India
+YEAR: 2023
+AUTHORITY: Parliament of India
+SOURCE: India Code — official Central Acts repository
+SOURCE_URL: https://www.indiacode.nic.in/bitstream/123456789/20062/1/a202345.pdf
+SOURCE_TYPE: Official government statutory PDF; as on 6 October 2025
+KEYWORDS: cheating, deception, dishonest inducement, property delivery, fraud, misrepresentation, BNS, section 318
+DESCRIPTION: Verbatim section 318(1) and its explanation, with selected statutory illustrations and penalty subsections omitted. Consult the official source for the complete section.
+CONTENT:
+318. Cheating.—(1) Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property, is said to cheat.
+
+Explanation.—A dishonest concealment of facts is a deception within the meaning of this section.

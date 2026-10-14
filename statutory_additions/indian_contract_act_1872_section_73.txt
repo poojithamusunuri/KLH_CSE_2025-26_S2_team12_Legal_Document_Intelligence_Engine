@@ -1,0 +1,22 @@
+DOCUMENT_ID: STATUTE_ICA_1872_S73
+TITLE: Indian Contract Act, 1872 — Section 73 — Compensation for Breach of Contract
+DOCUMENT_TYPE: Official Statutory Text Excerpt
+CATEGORY: Central Act
+DOMAIN: Civil Law
+SUBDOMAIN: Contracts and Remedies
+JURISDICTION: India
+YEAR: 1872
+AUTHORITY: Parliament of India
+SOURCE: India Code — official Central Acts repository
+SOURCE_URL: https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf
+SOURCE_TYPE: Official government statutory PDF; India Code copy
+KEYWORDS: breach of contract, compensation, loss, damage, non-performance, remote loss, Indian Contract Act, section 73
+DESCRIPTION: Verbatim text of section 73 and its explanation from the official India Code PDF. Illustrations following the section are omitted.
+CONTENT:
+73. Compensation for loss or damage caused by breach of contract.—When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it.
+
+Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach.
+
+Compensation for failure to discharge obligation resembling those created by contract.—When an obligation resembling those created by contract has been incurred and has not been discharged, any person injured by the failure to discharge it is entitled to receive the same compensation from the party in default, as if such person had contracted to discharge it and had broken his contract.
+
+Explanation.—In estimating the loss or damage arising from a breach of contract, the means which existed of remedying the inconvenience caused by the non-performance of the contract must be taken into account.

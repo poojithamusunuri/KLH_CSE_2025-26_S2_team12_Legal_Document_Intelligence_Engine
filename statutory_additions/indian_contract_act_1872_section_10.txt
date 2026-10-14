@@ -1,0 +1,18 @@
+DOCUMENT_ID: STATUTE_ICA_1872_S10
+TITLE: Indian Contract Act, 1872 — Section 10 — What Agreements Are Contracts
+DOCUMENT_TYPE: Official Statutory Text Excerpt
+CATEGORY: Central Act
+DOMAIN: Civil Law
+SUBDOMAIN: Contracts
+JURISDICTION: India
+YEAR: 1872
+AUTHORITY: Parliament of India
+SOURCE: India Code — official Central Acts repository
+SOURCE_URL: https://www.indiacode.nic.in/bitstream/123456789/2187/2/A187209.pdf
+SOURCE_TYPE: Official government statutory PDF; India Code copy
+KEYWORDS: agreement, contract, free consent, competent parties, lawful consideration, lawful object, void agreement, Indian Contract Act, section 10
+DESCRIPTION: Verbatim text of section 10 from the official India Code PDF. Read with other applicable laws and amendments.
+CONTENT:
+10. What agreements are contracts.—All agreements are contracts if they are made by the free consent of parties competent to contract, for a lawful consideration and with a lawful object, and are not hereby expressly declared to be void.
+
+Nothing herein contained shall affect any law in force in India and not hereby expressly repealed by which any contract is required to be made in writing or in the presence of witnesses, or any law relating to the registration of documents.
